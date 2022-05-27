@@ -7,6 +7,162 @@
 # How to use:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
+# Deutsch
+# -----------------
+de: &DEFAULT_DE
+  header:
+    text:
+    title: Kassiopaia & Momo Familienfestival <br> - Weisheit und Lebensfreude - <br>2.9.2023 bis 9.9.2023
+    button: Jetzt buchen
+    buttonlink: "/buchung"
+
+  services:
+    title: " "
+    #text: "Lorem ipsum"
+    section: services
+    list:
+      - title: "All-inclusive Familienurlaub"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-bed #find more at https://fontawesome.com/icons
+      - title: "6 Coaches"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-person-chalkboard
+      - title: "2 Seminare pro Tag"
+        desc: "Your description here, full **Markdown** support"
+        icon: fas fa-school
+      - title: "Kinderbetreuung"
+        desc: "Your description here, full **Markdown** support"
+        icon: fas fa-child
+
+  portfolio:
+    title: "Angebote"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
+
+#  timeline:
+#    title: "Timeline"
+#    text: "Lorem ipsum timeline"
+#    section: timeline
+    # left is the default
+    #start_align: "left"
+#    events:
+#      - title: "Our Humble Beginnings"
+#        year: "2009-2011"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#        image: assets/img/timeline/1.jpg
+#        alt:
+#      - title: "An Agency is Born"
+#        year: "March 2011"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#        image: assets/img/timeline/2.jpg
+#        alt:
+#      - title: "Jekyll Theme is created"
+#        year: "2019"
+#        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+#        image: assets/img/timeline/3.jpg
+#        alt: image alt text
+#      - title: "Title"
+#        year: "2009-2011"
+#        desc: "Your description here, **Markdown** is fully supported."
+#        image: assets/img/timeline/4.jpg
+#        alt:
+#        # you can enforce the alignment
+#        align: right
+#    end: "Be Part <br> of Our <br> Story!"
+
+  about:
+    title: "Philosophie"
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
+
+#  clients:
+#    section: clients
+#    max-height: 100px
+#    horizontal-scrolling: "" #"yes/no"
+#    list:
+#      - title: "envato"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/envato.jpg
+#      - title: "designmodo"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/designmodo.jpg
+#      - title: "themeforest"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/themeforest.jpg
+#      - title: "Creative Market"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "Das Team"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
+    people:
+      - name: "Miriam Schmidberger"
+        role: "Gründerin und Radikal Transformation Coach"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Markus Schmidberger"
+        role: "Gründer und Life Trust Coach"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Lucio Battista"
+        role: "Jugendbetreuer und Erlebnispädagoge i.A."
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "Daniela Tigges"
+        role: "Hotelmanagerin"
+        image: assets/img/team/500x500.jpg
+      - name: "????"
+        role: "und noch weitere Coaches"
+        image: assets/img/team/500x500.jpg
+
+  contact:
+    title: "Contact Us"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: mailto:trafo@posteo.net
+        icon: "fab fa-at"
+
+de-DE:
+  <<: *DEFAULT_DE
+
+
+
+
 # English (default)
 # -----------------
 en: &DEFAULT_EN

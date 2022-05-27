@@ -1,0 +1,23 @@
+---
+---
+
+@import "css/agency.css";
+
+// farbe text im header schwarz
+header.masthead {
+  color: black;
+}
+
+// header box kleiner
+header.masthead .intro-text {
+    padding-top: 100px;
+    padding-bottom: 75px;
+}
+
+#mainNav .navbar-brand {
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+header.masthead .intro-text .intro-lead-in {
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}

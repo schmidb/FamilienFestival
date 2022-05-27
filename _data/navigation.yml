@@ -7,6 +7,25 @@
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
+
+# Deutsch
+# -----------------
+de: &DEFAULT_DE
+  nav:
+    - title: "Angebote"
+      section: portfolio
+    - title: "Philosophie"
+      section: about
+    - title: "Team"
+      section: team
+    - title: "Hotel"
+      section: hotel
+    - title: "Kontakt"
+      section: contact
+de-DE:
+  <<: *DEFAULT_DE
+
+
 # English (default)
 # -----------------
 en: &DEFAULT_EN
@@ -27,11 +46,3 @@ en: &DEFAULT_EN
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
-
-
-de: &DEFAULT_DE
-  nav:
-    - title: "Coaches & Trainer"
-      section: coaches
-de-DE:
-  <<: *DEFAULT_DE
