@@ -12,14 +12,14 @@
 # -----------------
 de: &DEFAULT_DE
   nav:
-    - title: "Angebote"
+    - title: "Programm"
       section: portfolio
     - title: "Philosophie"
       section: about
-    - title: "Team"
-      section: team
     - title: "Hotel"
       section: hotel
+    - title: "Team"
+      section: team
     - title: "Kontakt"
       section: contact
 de-DE:

@@ -27,15 +27,21 @@ de: &DEFAULT_DE
       - title: "6 Coaches"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-person-chalkboard
+      - title: "2 Schnuppertage"
+        desc: "sdfafd"
+        icon: fas fa-magnifying-glass
       - title: "2 Seminare pro Tag"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-school
+      - title: "25 Familien"
+        desc: "fdsdf"
+        icon: fas fa-people-group
       - title: "Kinderbetreuung"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-child
 
   portfolio:
-    title: "Angebote"
+    title: "Programm"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
@@ -77,23 +83,23 @@ de: &DEFAULT_DE
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
-#  clients:
-#    section: clients
-#    max-height: 100px
-#    horizontal-scrolling: "" #"yes/no"
-#    list:
-#      - title: "envato"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/envato.jpg
-#      - title: "designmodo"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/designmodo.jpg
-#      - title: "themeforest"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/themeforest.jpg
-#      - title: "Creative Market"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/creative-market.jpg
+  clients:
+    title: Partner
+    section: partner
+    max-height: 100px
+    horizontal-scrolling: "no" #"yes/no"
+    list:
+      - title: "Turtle Transformation"
+        url: https://turtletrafo.de
+        logo: assets/img/team/turtle-logo.jpg
+      - title: "Ebbinghof"
+        url: https://www.familienhotel-ebbinghof.de/
+        logo: assets/img/team/ebbinghof.jpg
+
+  hotel:
+    section: hotel
+    title: Hotel - Familienhotel Ebbinghof
+    description: sdfasfsd
 
   team:
     title: "Das Team"
@@ -133,8 +139,8 @@ de: &DEFAULT_DE
         image: assets/img/team/500x500.jpg
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Kontakt"
+    text: "Miriam & Markus Schmidberger - trafo@posteo.net"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -150,9 +156,9 @@ de: &DEFAULT_DE
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://facebook.com
+      - url: https://www.facebook.com/turtletrafo
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/turtletrafo
         icon: "fab fa-linkedin-in"
       - url: mailto:trafo@posteo.net
         icon: "fab fa-at"
