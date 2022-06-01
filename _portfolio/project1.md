@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+title: Familie ohne Gefühle geht nicht - auf in die Wunderwelt der Gefühle
+subtitle: Entdecke deine Gefühle neu.
+image: assets/img/portfolio/smiley-emotions.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Familie ohne Gefühle geht nicht - auf in die Wunderwelt der Gefühle
+  subtitle:
+  thumbnail: assets/img/portfolio/smiley-emotions.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+In vier Einheiten entdeckst du deine Gefühle neu. Du spürst deine Gefühle im Körper, du gibst allen Gefühlen Raum, du lernst Gefühle zu halten, auszusprechen und zu versorgen. Durch das aktive Fühlen deiner Gefühle hast du die Möglichkeit dein tägliches Verhalten besser zu verstehen und zu erleichtern.
+Abgerundet wird das Seminar durch das Erlernen einer einfachen Alltagsübung um in jeder Situation einen kurzen Gefühlscheckin zu machen.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
-
+- Coach: Markus
+- Kategorie: Mindset

@@ -18,26 +18,33 @@ de: &DEFAULT_DE
 
   services:
     title: " "
-    #text: "Lorem ipsum"
+    text: "Ein Turtle Transfomation - Event mit freundlicher Unterstützung des Familienhotel Ebbinghof.
+    Ein Festival für Familien und Alleinerziehende mit Kindern zwischen 1 und 18 Jahren."
     section: services
     list:
       - title: "All-inclusive Familienurlaub"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Umgeben von sattem Grün, vielen Wiesen und Wäldern ist der Ebbinghof der
+        ideale Ort um ins eigene Sein zu tauchen und neue Freiheiten zu entdecken."
         icon: fas fa-bed #find more at https://fontawesome.com/icons
       - title: "6 Coaches"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Ausgewählte Experten geben Anstösse, um in dir neue Freiheiten zu entdecken
+        und das Leben mit deiner Familie neu zu gestalten und zu feiern."
         icon: fas fa-person-chalkboard
       - title: "2 Schnuppertage"
-        desc: "sdfafd"
+        desc: "An zwei Tagen gibt es verschiedenste Schnupper-Angebote um deinen Mindset zu erweitern,
+        deinen Körper zu stärken und Inspirationen für dein Familienleben zu bekommen."
         icon: fas fa-magnifying-glass
-      - title: "2 Seminare pro Tag"
-        desc: "Your description here, full **Markdown** support"
+      - title: "5 Tage Transformation intensiv"
+        desc: "An 5 Tagen bieten wir dir täglich zwei Seminare um tief in dein eigenes Sein zu tauchen
+        und neue Freiheiten zu entdecken."
         icon: fas fa-school
       - title: "25 Familien"
-        desc: "fdsdf"
+        desc: "25 gleichgesinnte Familien triffst du am Ebbinghof und es entstehen
+        neue Verbindungen, Kontakte und Freundschaften."
         icon: fas fa-people-group
-      - title: "Kinderbetreuung"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Kinderprogramm und -betreuung"
+        desc: "Jede Menge Spaß & Weiterbildung für eure Kids steht am Programm – immer unter liebevoller Aufischt
+        und die Eltern können entspannen oder neue Inspirationen sammeln."
         icon: fas fa-child
 
   portfolio:
@@ -79,8 +86,17 @@ de: &DEFAULT_DE
 
   about:
     title: "Philosophie"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "raus aus den Limits in deinem Kopf"
+    body: "Dieses Festival sprengt - wenn Ihr es wollt - alle einengenden und Freiheit
+    nehmenden Vorstellungen, die an das Leben als Familie geknüpft sind. Es ist
+    möglich als Familie zu leben, zu arbeiten, zu sein, zu experimentieren - das Limit
+    ist immer im eigenen Kopf.
+    <br><br>
+    Hier auf dem Festival bieten wir und unser Team die Möglichkeit den Komfort des 4
+    Sterne Hotels Ebbinghof entspannt zu genießen, dabei tief ins eigene Sein zu tauchen
+    und neue Freiheiten zu entdecken und gleichzeitig mit den Kindern das Leben zu feiern.
+Außenrum und nebenbei entstehen neue Verbindungen und Kontakte, gibt es Inspirationen
+in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und zurückzuziehen."
     section: about
 
   clients:
@@ -99,7 +115,8 @@ de: &DEFAULT_DE
   hotel:
     section: hotel
     title: Hotel - Familienhotel Ebbinghof
-    description: sdfasfsd
+    text: In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich weiterentwickeln. - Daniela Trigges, Geschäftsführerin des Familienhotels Ebbinghof
+
 
   team:
     title: "Das Team"
@@ -131,7 +148,7 @@ de: &DEFAULT_DE
             icon: fab fa-facebook-f
           - url: https://instagram.com
             icon: fab fa-instagram
-      - name: "Daniela Tigges"
+      - name: "Daniela Trigges"
         role: "Hotelmanagerin"
         image: assets/img/team/500x500.jpg
       - name: "????"
