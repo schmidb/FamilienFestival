@@ -22,6 +22,8 @@ de: &DEFAULT_DE
       section: team
     - title: "Kontakt"
       section: contact
+    - title: "Blog"
+      url: "/blog"
 de-DE:
   <<: *DEFAULT_DE
 
