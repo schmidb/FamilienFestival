@@ -18,5 +18,5 @@ Dieses Buch möchte aufzeigen, wie wir uns der Natur des Kindes wieder nähern k
 
 Auch Miriam hat ihren Weg für unserer Kinder hin zu flexiblerer und kreativerer Bildung im Buch geteilt: "Den Weg gehen" (S. 165)
 
-Du kannst es ab sofort hier (vor-) bestellen:
+Du kannst es ab sofort hier bestellen:
 [https://genius-verlag.de/start/m%C3%BCtter_der_neuen_zeit.html](https://genius-verlag.de/start/m%C3%BCtter_der_neuen_zeit.html)
