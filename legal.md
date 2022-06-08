@@ -1,37 +1,51 @@
 ---
 layout: page
-title: Privacy Policy
+title: Impressum
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Impressum</h2>
 </div>
+<br><br>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+# Angaben gem&auml;&szlig; &sect; 5 TMG
 
-**PERSONAL INFORMATION WE COLLECT**
 
-{% if site.analytics.google %}
 
-Automatically Collected (Google Analytics):
+### Kontakt
+* E-Mail Organisatoren: {{site.email}}
+* E-Mail Veranstalter: info@familienhotel-ebbinghof.de
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+### Inhaltlich verantwortlich & Organisation
+Miriam &amp; Markus Schmidberger, Curragh Road, Glenbeigh, Co. Kerry, Irland
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+### Veranstalter des Familien Festivals
+Familienhotel Ebbinghof, Inh. Daniela Tigges e. K., Ebbinghof 5, 57392 Schmallenberg
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+### Copyright Photos
+* https://pixabay.com
+* Familienhotel Ebbinghof
+* Miriam & Markus Schmidberger
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
 
-{% else %}
+<br>
+# Haftungs­ausschluss
+Quelle: <a href="https://www.e-recht24.de">eRecht24</a>
 
-We do not collect any data about you or use any cookies.
+### Haftung für Inhalte
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
 
-{% endif %}
+Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.
+Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
 
-**CHANGES**
+Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei bekannt werden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+### Haftung für Links
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
 
-**CONTACT US**
+### Urheberrecht/Copyright
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung von Turtle Transformation.
+Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet.
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+
+<br>
