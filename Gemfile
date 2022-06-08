@@ -6,3 +6,5 @@ group :jekyll_plugins do
   gem "jekyll-github-metadata"
   gem "jekyll-agency"
 end
+
+gem "webrick"

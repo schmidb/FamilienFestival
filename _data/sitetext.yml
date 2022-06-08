@@ -49,7 +49,7 @@ de: &DEFAULT_DE
 
   portfolio:
     title: "Programm"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Ein Programm um tief ins eigene Sein zu tauchen und neue Freiheiten zu entdecken."
     section: portfolio
     closebutton: "Close Project"
 
@@ -86,11 +86,23 @@ de: &DEFAULT_DE
 
   about:
     title: "Philosophie"
-    text: "raus aus den Limits in deinem Kopf"
+    text: "Raus aus den Limits in deinem Kopf."
+    video: <iframe width='560' height='315' src='https://www.youtube.com/embed/Iz9RiXwgJ8g' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
     body: "Dieses Festival sprengt - wenn Ihr es wollt - alle einengenden und Freiheit
     nehmenden Vorstellungen, die an das Leben als Familie geknüpft sind. Es ist
     möglich als Familie zu leben, zu arbeiten, zu sein, zu experimentieren - das Limit
     ist immer im eigenen Kopf.
+    <br><br>
+    **Warum Momo und Kassiopeia:**<br>
+    Unseres Eindrucks nach ist Familienleben aktuell oft geprägt von einem Gefühl
+    des Zeitmangels. Dem zu begegnen und aus dem Mangel wieder in ein Füllegefühl
+    zu kommen, ist wahrscheinlich mit das Wertvollste was Familien sich gönnen können.
+    Der Weg dahin ist - unserer Erfahrung nach - nicht einfach, da unter dem
+    Alltagsgetriebe in der Regel ein komplexes System aus Annahmen, Glaubenssätzen,
+    Abhängigkeiten, Ängsten und anderen Gefühlen steckt. Es lohnt sich dieses
+    System genauer unter die Lupe zu nehmen und es Schritt für Schritt zu entzerren.
+    Mit jedem kleinen Knoten, der gelöst ist, entsteht genau das, was Momo so
+    intuitiv der Welt schenkt, Zeit für Verbindung und Kreativität.
     <br><br>
     Hier auf dem Festival bieten wir und unser Team die Möglichkeit den Komfort des 4
     Sterne Hotels Ebbinghof entspannt zu genießen, dabei tief ins eigene Sein zu tauchen
@@ -115,32 +127,35 @@ in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und 
   hotel:
     section: hotel
     title: Hotel - Familienhotel Ebbinghof
-    text: In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich weiterentwickeln. - Daniela Trigges, Geschäftsführerin des Familienhotels Ebbinghof
-
+    text: "In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich
+    weiterentwickeln. - Daniela Tigges, Vollblut-Unternehmerin"
   blog:
     title: Blog - Familien Festival
 
   team:
     title: "Das Team"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Lass dich inspirieren von Coaches aus dem Bereich Mind, Body und Familie."
+    subtext: "Unterstützt wird das Festival und das Team von ausgewählten Partner.
+    Auf den Schnuppertagen kannst du unsere Partner persönlich treffen."
     section: team
     people:
       - name: "Miriam Schmidberger"
         role: "Gründerin und Radikal Transformation Coach"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/miriam.jpg
         social:
-          - url: https://facebook.com
+          - url: https://www.facebook.com/miriam.snow.1
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/miriamschmidberger/
             icon: fab fa-linkedin-in
+          - url: https://www.instagram.com/miriamsnow39/
+            icon: fab fa-instagram
       - name: "Markus Schmidberger"
         role: "Gründer und Life Trust Coach"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/markus.jpeg
         social:
-          - url: https://facebook.com
+          - url: https://www.facebook.com/markus.schmidberger
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/schmidberger/
             icon: fab fa-linkedin-in
       - name: "Lucio Battista"
         role: "Jugendbetreuer und Erlebnispädagoge i.A."
@@ -150,13 +165,17 @@ in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und 
             icon: fab fa-facebook-f
           - url: https://instagram.com
             icon: fab fa-instagram
-      - name: "Daniela Trigges"
-        role: "Hotelmanagerin"
-        image: assets/img/team/500x500.jpg
+      - name: "Daniela Tigges"
+        role: "Vollblut-Unternehmerin und Hotelmanagerin des Ebbinghofes"
+        image: assets/img/team/daniela.jpeg
+        social:
+          - url: https://www.linkedin.com/in/daniela-tigges-0a326a70/
+            icon: fab fa-linkedin-in
+          - url: https://www.facebook.com/daniela.tigges
+            icon: fab fa-facebook-f
       - name: "????"
         role: "und noch weitere Coaches"
         image: assets/img/team/500x500.jpg
-
   contact:
     title: "Kontakt"
     text: "Miriam & Markus Schmidberger - trafo@posteo.net"
