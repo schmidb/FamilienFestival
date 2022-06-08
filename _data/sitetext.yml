@@ -12,7 +12,7 @@
 de: &DEFAULT_DE
   header:
     text:
-    title: Kassiopaia & Momo Familienfestival <br> - Weisheit und Lebensfreude - <br>2.9.2023 bis 9.9.2023
+    title: Kassiopaia & Momo Familienfestival <br> - Weisheit und Lebensfreude - <br>2.9.2023 bis 10.9.2023
     button: Jetzt buchen
     buttonlink: "/buchung"
 
@@ -51,7 +51,7 @@ de: &DEFAULT_DE
     title: "Programm"
     text: "Ein Programm um tief ins eigene Sein zu tauchen und neue Freiheiten zu entdecken."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Seite schliessen"
 
 #  timeline:
 #    title: "Timeline"

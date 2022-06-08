@@ -15,3 +15,5 @@ Abgerundet wird das Seminar durch das Erlernen einer einfachen Alltagsübung um 
 {:.list-inline}
 - Coach: Markus
 - Kategorie: Mindset
+
+<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
