@@ -200,6 +200,8 @@ in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und 
         icon: "fab fa-linkedin-in"
       - url: mailto:trafo@posteo.net
         icon: "fab fa-at"
+      - url: /faq
+        icon: "fab fa-question"
 
 de-DE:
   <<: *DEFAULT_DE
