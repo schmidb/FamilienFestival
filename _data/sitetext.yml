@@ -87,13 +87,13 @@ de: &DEFAULT_DE
   about:
     title: "Philosophie"
     text: "Raus aus den Limits in deinem Kopf."
-    video: <iframe width='560' height='315' src='https://www.youtube.com/embed/Iz9RiXwgJ8g' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
-    body: "Dieses Festival sprengt - wenn Ihr es wollt - alle einengenden und Freiheit
+    video: <iframe width='560' height='315' src='https://www.youtube.com/embed/Iz9RiXwgJ8g' title='Momo und Kassiopeia' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+    body1: "Dieses Festival sprengt - wenn Ihr es wollt - alle einengenden und Freiheit
     nehmenden Vorstellungen, die an das Leben als Familie geknüpft sind. Es ist
     möglich als Familie zu leben, zu arbeiten, zu sein, zu experimentieren - das Limit
     ist immer im eigenen Kopf.
     <br><br>
-    **Warum Momo und Kassiopeia:**<br>
+    **Warum Momo und Kassiopeia?**<br>
     Unseres Eindrucks nach ist Familienleben aktuell oft geprägt von einem Gefühl
     des Zeitmangels. Dem zu begegnen und aus dem Mangel wieder in ein Füllegefühl
     zu kommen, ist wahrscheinlich mit das Wertvollste was Familien sich gönnen können.
@@ -102,9 +102,8 @@ de: &DEFAULT_DE
     Abhängigkeiten, Ängsten und anderen Gefühlen steckt. Es lohnt sich dieses
     System genauer unter die Lupe zu nehmen und es Schritt für Schritt zu entzerren.
     Mit jedem kleinen Knoten, der gelöst ist, entsteht genau das, was Momo so
-    intuitiv der Welt schenkt, Zeit für Verbindung und Kreativität.
-    <br><br>
-    Hier auf dem Festival bieten wir und unser Team die Möglichkeit den Komfort des 4
+    intuitiv der Welt schenkt, Zeit für Verbindung und Kreativität."
+    body2: "<br><br>Hier auf dem Festival bieten wir und unser Team die Möglichkeit den Komfort des 4
     Sterne Hotels Ebbinghof entspannt zu genießen, dabei tief ins eigene Sein zu tauchen
     und neue Freiheiten zu entdecken und gleichzeitig mit den Kindern das Leben zu feiern.
 Außenrum und nebenbei entstehen neue Verbindungen und Kontakte, gibt es Inspirationen
