@@ -156,6 +156,12 @@ in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und 
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/schmidberger/
             icon: fab fa-linkedin-in
+      - name: "Sebi Jäger"
+        role: "Tänzer / Choreograph / Coach und Schauspieler"
+        image: assets/img/team/sebi.jpg
+        social:
+          - url: https://www.instagram.com/killasebi/
+            icon: fab fa-instagram
       - name: "Lucio Battista"
         role: "Jugendbetreuer und Erlebnispädagoge i.A."
         image: assets/img/team/500x500.jpg
