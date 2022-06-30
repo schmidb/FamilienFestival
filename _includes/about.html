@@ -10,7 +10,9 @@
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
         <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body1 | markdownify }}</div>
-        <div class="large text-muted">{{ site.data.sitetext[site.locale].about.video}}</div>
+        <div class="embed-responsive embed-responsive-16by9">
+          {{ site.data.sitetext[site.locale].about.video}}
+        </div>
         <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body2 | markdownify }}</div>
       </div>
     </div>

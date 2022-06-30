@@ -87,7 +87,7 @@ de: &DEFAULT_DE
   about:
     title: "Philosophie"
     text: "Raus aus den Limits in deinem Kopf."
-    video: <iframe width='560' height='315' src='https://www.youtube.com/embed/Iz9RiXwgJ8g' title='Momo und Kassiopeia' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+    video: <iframe class="embed-responsive-item" src='https://www.youtube.com/embed/Iz9RiXwgJ8g' title='Momo und Kassiopeia' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
     body1: "Dieses Festival sprengt - wenn Ihr es wollt - alle einengenden und Freiheit
     nehmenden Vorstellungen, die an das Leben als Familie geknüpft sind. Es ist
     möglich als Familie zu leben, zu arbeiten, zu sein, zu experimentieren - das Limit
