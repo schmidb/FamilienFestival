@@ -187,20 +187,16 @@ in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und 
       - name: "????"
         role: "und noch weitere Coaches"
         image: assets/img/team/500x500.jpg
+
   contact:
     title: "Kontakt"
     text: "Miriam & Markus Schmidberger - trafo@posteo.net"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    newsletter:
+      abmeldung: Newsletter Abmeldung
+      introtext: In unregelmässigen Abständen senden wir Dir Informationen und Angebote rund um Familien Festival 2023. Du kannst den Newsletter jederzeit über den Link im Footer abbestellen.
+      danke: Vielen Dank für die Registrierung am Familien Festival 2023 Newsletter. In unregelmäßigen Abständen versenden wir Neuigkeiten rund um das Familien Festival 2023.
+      abmeldenText: Hier kannst Du dich jederzeit wieder vom Familien Festival 2023 Newsletter abmelden. Klicke bitte auf Abmelden, um keine weiteren E-Mails von Familien Festival 2023 an diese E-Mail-Adresse zu erhalten.
 
   footer:
     legal: "Impressum"
@@ -213,6 +209,8 @@ in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und 
         icon: "fab fa-at"
       - url: /faq
         icon: "fab fa-question"
+
+
 
 de-DE:
   <<: *DEFAULT_DE
