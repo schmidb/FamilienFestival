@@ -10,4 +10,4 @@ title: Management Newsletter
 
 {{ site.data.sitetext[site.locale].contact.newsletter.abmeldenText }}
 
-{% include sendinblue.html %}
+{% include sendinblue_abmeldung.html %}
