@@ -162,6 +162,12 @@ in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und 
         social:
           - url: https://www.instagram.com/killasebi/
             icon: fab fa-instagram
+      - name: "Teresa Sulilatu"
+        role: Selbstbehauptungs-und Resilienztrainerin, Ringana Partner
+        image: assets/img/team/theresa.jpg
+      - name: "Julia Koronowski"
+        role: "Ernährung, Sprachentwicklung & achtsame Kommunikation Coach"
+        image: assets/img/team/500x500.jpg
       - name: "Lucio Battista"
         role: "Jugendbetreuer und Erlebnispädagoge i.A."
         image: assets/img/team/500x500.jpg

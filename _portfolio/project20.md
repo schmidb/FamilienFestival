@@ -1,20 +1,18 @@
 ---
-title: Abendprogramm
-subtitle: Den Abend entspannt verbringen und mit Freunden sich austauschen.
-image: assets/img/portfolio/lagerfeuer.jpg
+title: Als Paar an einem Strang ziehen - Familie auf starkem Fundament
+subtitle: Lorem ipsum dolor sit amet consectetur.
+image: assets/img/portfolio/paar.jpg
 alt:
 
 caption:
-  title: Abendprogramm
+  title: Als Paar an einem Strang ziehen - Familie auf starkem Fundament
   subtitle:
-  thumbnail: assets/img/portfolio/lagerfeuer.jpg
+  thumbnail: assets/img/portfolio/paar.jpg
 ---
-Ein umfangreiches Abendprogramm lädt zum ausklingen und entspannen ein.
+Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Lagerfeuer und Stockbrot
-- Kinoabend ab 12 Jahren
-- Kaminfeuer Gesprächsrunden zu verschiedenen Themen
-- Meditation
+- Coach: Miriam & Markus
+- Kategorie: Mind & Familie
 
 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
