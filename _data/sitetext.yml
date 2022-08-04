@@ -26,16 +26,16 @@ de: &DEFAULT_DE
         desc: "Umgeben von sattem Grün, vielen Wiesen und Wäldern ist der Ebbinghof der
         ideale Ort um ins eigene Sein zu tauchen und neue Freiheiten zu entdecken."
         icon: fas fa-bed #find more at https://fontawesome.com/icons
-      - title: "6 Coaches"
+      - title: "8 Coaches"
         desc: "Ausgewählte Experten geben Anstösse, um in dir neue Freiheiten zu entdecken
         und das Leben mit deiner Familie neu zu gestalten und zu feiern."
         icon: fas fa-person-chalkboard
-      - title: "2 Schnuppertage"
-        desc: "An zwei Tagen gibt es verschiedenste Schnupper-Angebote um deinen Mindset zu erweitern,
+      - title: "2 Festival Tage"
+        desc: "An zwei Tagen gibt es verschiedenste Schnupper-Angebote, um deinen Mindset zu erweitern,
         deinen Körper zu stärken und Inspirationen für dein Familienleben zu bekommen."
         icon: fas fa-magnifying-glass
       - title: "5 Tage Transformation intensiv"
-        desc: "An 5 Tagen bieten wir dir täglich zwei Seminare um tief in dein eigenes Sein zu tauchen
+        desc: "An 5 Tagen bieten wir dir täglich zwei Seminare, um tief in dein eigenes Sein zu tauchen
         und neue Freiheiten zu entdecken."
         icon: fas fa-school
       - title: "25 Familien"
@@ -166,8 +166,8 @@ in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und 
         role: Selbstbehauptungs-und Resilienztrainerin, Ringana Partner
         image: assets/img/team/theresa.jpg
       - name: "Julia Koronowski"
-        role: "Ernährung, Sprachentwicklung & achtsame Kommunikation Coach"
-        image: assets/img/team/500x500.jpg
+        role: "Sprache & Kommunikations Coach, Entwicklungspsychologie, Ernährung"
+        image: assets/img/team/julia.jpg
       - name: "Lucio Battista"
         role: "Jugendbetreuer und Erlebnispädagoge i.A."
         image: assets/img/team/500x500.jpg
@@ -184,9 +184,6 @@ in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und 
             icon: fab fa-linkedin-in
           - url: https://www.facebook.com/daniela.tigges
             icon: fab fa-facebook-f
-      - name: "????"
-        role: "und noch weitere Coaches"
-        image: assets/img/team/500x500.jpg
 
   contact:
     title: "Kontakt"
