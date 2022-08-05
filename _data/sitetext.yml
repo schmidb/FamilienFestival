@@ -12,7 +12,7 @@
 de: &DEFAULT_DE
   header:
     text:
-    title: Kassiopaia & Momo Familienfestival <br> - Weisheit und Lebensfreude - <br>2.9.2023 bis 10.9.2023
+    title: Kassiopaia & Momo Familien Festival <br> - Weisheit und Lebensfreude - <br>2.9.2023 bis 10.9.2023
     button: Jetzt buchen
     buttonlink: "/buchung"
 
@@ -24,32 +24,32 @@ de: &DEFAULT_DE
     list:
       - title: "All-inclusive Familienurlaub"
         desc: "Umgeben von sattem Grün, vielen Wiesen und Wäldern ist der Ebbinghof der
-        ideale Ort um ins eigene Sein zu tauchen und neue Freiheiten zu entdecken."
+        ideale Ort, um ins eigene Sein zu tauchen und neue Freiheiten zu entdecken."
         icon: fas fa-bed #find more at https://fontawesome.com/icons
       - title: "8 Coaches"
-        desc: "Ausgewählte Experten geben Anstösse, um in dir neue Freiheiten zu entdecken
+        desc: "Ausgewählte Experten geben Anstöße, um in dir neue Freiheiten zu entdecken
         und das Leben mit deiner Familie neu zu gestalten und zu feiern."
         icon: fas fa-person-chalkboard
       - title: "2 Festival Tage"
-        desc: "An zwei Tagen gibt es verschiedenste Schnupper-Angebote, um deinen Mindset zu erweitern,
+        desc: "An zwei Tagen gibt es verschiedene Schnupperangebote, um deinen Horizont zu erweitern,
         deinen Körper zu stärken und Inspirationen für dein Familienleben zu bekommen."
         icon: fas fa-magnifying-glass
       - title: "5 Tage Transformation intensiv"
         desc: "An 5 Tagen bieten wir dir täglich zwei Seminare, um tief in dein eigenes Sein zu tauchen
-        und neue Freiheiten zu entdecken."
+        und neue Möglichkeiten zu entdecken."
         icon: fas fa-school
       - title: "25 Familien"
         desc: "25 gleichgesinnte Familien triffst du am Ebbinghof und es entstehen
         neue Verbindungen, Kontakte und Freundschaften."
         icon: fas fa-people-group
       - title: "Kinderprogramm und -betreuung"
-        desc: "Jede Menge Spaß & Weiterbildung für eure Kids steht am Programm – immer unter liebevoller Aufischt
-        und die Eltern können entspannen oder neue Inspirationen sammeln."
+        desc: "Jede Menge Spaß & Weiterbildung für eure Kids steht auf dem
+        Programm – immer unter liebevoller Begleitung und je nach Angebot mit oder ohne Eltern."
         icon: fas fa-child
 
   portfolio:
     title: "Programm"
-    text: "Ein Programm um tief ins eigene Sein zu tauchen und neue Freiheiten zu entdecken."
+    text: "Ein Programm um tief ins eigene Sein zu tauchen und neue Möglichkeiten zu entdecken."
     section: portfolio
     closebutton: "Seite schliessen"
 
@@ -86,28 +86,36 @@ de: &DEFAULT_DE
 
   about:
     title: "Philosophie"
-    text: "Raus aus den Limits in deinem Kopf."
+    text: "Raus aus den Begrenzungen in deinem Kopf."
     video: <iframe class="embed-responsive-item" src='https://www.youtube.com/embed/Iz9RiXwgJ8g' title='Momo und Kassiopeia' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
     body1: "Dieses Festival sprengt - wenn Ihr es wollt - alle einengenden und Freiheit
     nehmenden Vorstellungen, die an das Leben als Familie geknüpft sind. Es ist
-    möglich als Familie zu leben, zu arbeiten, zu sein, zu experimentieren - das Limit
+    möglich als Familie enstpannt und offen zu leben, zu arbeiten, zu sein, zu experimentieren - das Limit
     ist immer im eigenen Kopf.
     <br><br>
     **Warum Momo und Kassiopeia?**<br>
-    Unseres Eindrucks nach ist Familienleben aktuell oft geprägt von einem Gefühl
+    Unseres Eindruckes nach ist Familienleben aktuell oft geprägt von einem Gefühl
     des Zeitmangels. Dem zu begegnen und aus dem Mangel wieder in ein Füllegefühl
-    zu kommen, ist wahrscheinlich mit das Wertvollste was Familien sich gönnen können.
+    zu kommen, ist wahrscheinlich mit das Wertvollste, das Familien sich gönnen können.
     Der Weg dahin ist - unserer Erfahrung nach - nicht einfach, da unter dem
     Alltagsgetriebe in der Regel ein komplexes System aus Annahmen, Glaubenssätzen,
     Abhängigkeiten, Ängsten und anderen Gefühlen steckt. Es lohnt sich dieses
     System genauer unter die Lupe zu nehmen und es Schritt für Schritt zu entzerren.
     Mit jedem kleinen Knoten, der gelöst ist, entsteht genau das, was Momo so
     intuitiv der Welt schenkt, Zeit für Verbindung und Kreativität."
-    body2: "<br><br>Hier auf dem Festival bieten wir und unser Team die Möglichkeit den Komfort des 4
+    body2: "Mit freundlicher Genehmigung von [M. Sommer](http://mwsommer.de).<br><br>Hier auf dem Festival bieten wir und unser Team die Möglichkeit den Komfort des 4
     Sterne Hotels Ebbinghof entspannt zu genießen, dabei tief ins eigene Sein zu tauchen
     und neue Freiheiten zu entdecken und gleichzeitig mit den Kindern das Leben zu feiern.
 Außenrum und nebenbei entstehen neue Verbindungen und Kontakte, gibt es Inspirationen
-in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und zurückzuziehen."
+in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und zurückzuziehen.
+<br><br>**Warum ein Verhaltenskodex?**<br>
+Ein weiterer wichtiger Bestandteil für die entspannte Atmosphäre des Festivals ist der
+gemeinsame Verhaltenskodex zu dem man sich mit dem Kauf des Tickets verpflichtet. Der Sinn
+des gemeinsamen Kodex ist es, einen sicheren Raum für alle, die sich mutig auf den Weg der
+Veränderung begeben, zu bieten. Veränderungsprozesse können manchmal hohe emotionale Wellen
+schlagen. Der Ritt auf solch einer Welle kann leicht zu scheinbar schlechten Verhalten führen.
+In diesem Momenten ist es wichtig, sich von außen nicht ver- und beurteilt zu fühlen, sondern
+die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begegnet."
     section: about
 
   clients:

@@ -1,11 +1,11 @@
 ---
-title: Unbeatlable Mind und Radical Transformation -...
+title: Arbeit, Familie, Haushalt, Leben - zentriert bleiben & den eigenen Weg gehen mit Unbeatlable Mind und Radical Transformation
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/seifenblase.jpg
 alt:
 
 caption:
-  title: Unbeatlable Mind und Radical Transformation -...
+  title: Arbeit, Familie, Haushalt, Leben - zentriert bleiben & den eigenen Weg gehen mit Unbeatlable Mind und Radical Transformation
   subtitle:
   thumbnail: assets/img/portfolio/seifenblase.jpg
 ---

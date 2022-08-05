@@ -1,11 +1,11 @@
 ---
-title: Breakdance Class
+title: Breakdance Classes
 subtitle: Mit der richtigen Unterstützung kommst du ans Ziel.
 image: assets/img/portfolio/killa-sebi.png
 alt:
 
 caption:
-  title: Breakdance Class
+  title: Breakdance Classes
   subtitle:
   thumbnail: assets/img/portfolio/killa-sebi.png
 ---

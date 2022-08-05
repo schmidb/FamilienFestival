@@ -37,6 +37,9 @@ permalink: buchung
 	</div>
 	</div>
 
+	<h3>Verhaltenskodex:</h3>
+	tbd
+
   <br><br>
 
 	{% include contact.html %}
