@@ -174,16 +174,14 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
         role: Selbstbehauptungs-und Resilienztrainerin, Ringana Partner
         image: assets/img/team/theresa.jpg
       - name: "Julia Koronowski"
-        role: "Sprache & Kommunikations Coach, Entwicklungspsychologie, Ernährung"
+        role: "Sprach- & Kommunikations Coach, Entwicklungspsychologie, Ernährung"
         image: assets/img/team/julia.jpg
-      - name: "Lucio Battista"
-        role: "Jugendbetreuer und Erlebnispädagoge i.A."
+      - name: "Dorothea Brill"
+        role: "Achtsame Bewegung, Happy Panda - Achtsamkeit für Kinder, Schmuckdesignerin"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://instagram.com
-            icon: fab fa-instagram
+      - name: ""
+        role: "Yoga und Lebenscoach"
+        image: assets/img/team/500x500.jpg
       - name: "Daniela Tigges"
         role: "Vollblut-Unternehmerin und Hotelmanagerin des Ebbinghofes"
         image: assets/img/team/daniela.jpeg
