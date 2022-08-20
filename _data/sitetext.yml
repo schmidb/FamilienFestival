@@ -180,10 +180,10 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
         role: "Happy Panda Achtsamkeitstrainerin für Kinder, Übungsleiterin für achtsame Bewegung, Schmuckgestalterin"
         image: assets/img/team/doro.jpg
         social:
-          - url: https://www.dorothea-brill.de
-            icon: fab fa-page
+          - url: http://www.dorothea-brill.de
+            icon: fa fa-desktop
           - url: https://www.raum-fuer-zeit.net/
-            icon: fab fa-page
+            icon: fa fa-desktop
       - name: ""
         role: "Yoga und Lebenscoach"
         image: assets/img/team/500x500.jpg
