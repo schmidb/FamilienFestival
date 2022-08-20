@@ -175,10 +175,15 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
         image: assets/img/team/theresa.jpg
       - name: "Julia Koronowski"
         role: "Sprach- & Kommunikations Coach, Entwicklungspsychologie, Ernährung"
-        image: assets/img/team/julia.jpg
+        image: assets/img/team/julia_2.jpg
       - name: "Dorothea Brill"
-        role: "Achtsame Bewegung, Happy Panda - Achtsamkeit für Kinder, Schmuckdesignerin"
-        image: assets/img/team/500x500.jpg
+        role: "Happy Panda Achtsamkeitstrainerin für Kinder, Übungsleiterin für achtsame Bewegung, Schmuckgestalterin"
+        image: assets/img/team/doro.jpg
+        social:
+          - url: https://www.dorothea-brill.de
+            icon: fab fa-page
+          - url: https://www.raum-fuer-zeit.net/
+            icon: fab fa-page
       - name: ""
         role: "Yoga und Lebenscoach"
         image: assets/img/team/500x500.jpg

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: Mütter der neuen Zeit 2 - Unterwegs zu neuem Lernen
 img: /assets/img/blog/muetterderneuenzeit.png
 author: Miriam
