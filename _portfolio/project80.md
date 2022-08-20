@@ -1,13 +1,13 @@
 ---
 title: Breakdance Classes
 subtitle: Mit der richtigen Unterstützung kommst du ans Ziel.
-image: assets/img/portfolio/killa-sebi.png
+image: assets/img/portfolio/killa-sebi.jpg
 alt:
 
 caption:
   title: Breakdance Classes
   subtitle:
-  thumbnail: assets/img/portfolio/killa-sebi.png
+  thumbnail: assets/img/portfolio/killa-sebi.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
