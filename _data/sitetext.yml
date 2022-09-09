@@ -18,7 +18,7 @@ de: &DEFAULT_DE
 
   services:
     title: " "
-    text: "Ein Turtle Transfomation - Event mit freundlicher Unterstützung des Familienhotel Ebbinghof.
+    text: "Ein Turtle Transfomation - Event mit freundlicher Unterstützung des Familienhotels Ebbinghof.
     Ein Festival für Familien und Alleinerziehende mit Kindern zwischen 1 und 18 Jahren."
     section: services
     list:
@@ -43,7 +43,7 @@ de: &DEFAULT_DE
         neue Verbindungen, Kontakte und Freundschaften."
         icon: fas fa-people-group
       - title: "Kinderprogramm und -betreuung"
-        desc: "Jede Menge Spaß & Weiterbildung für eure Kids steht auf dem
+        desc: "Jede Menge Spaß & Weiterbildung für eure Kids stehen auf dem
         Programm – immer unter liebevoller Begleitung und je nach Angebot mit oder ohne Eltern."
         icon: fas fa-child
 
@@ -86,34 +86,35 @@ de: &DEFAULT_DE
 
   about:
     title: "Philosophie"
-    text: "Raus aus den Begrenzungen in deinem Kopf."
+    text: "Raus aus den Begrenzungen in deinem Kopf"
     video: <iframe class="embed-responsive-item" src='https://www.youtube.com/embed/Iz9RiXwgJ8g' title='Momo und Kassiopeia' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
     body1: "Dieses Festival sprengt - wenn Ihr es wollt - alle einengenden und Freiheit
-    nehmenden Vorstellungen, die an das Leben als Familie geknüpft sind. Es ist
+    nehmenden Vorstellungen, die allzuoft an das Leben als Familie geknüpft sind. Es ist
     möglich als Familie enstpannt und offen zu leben, zu arbeiten, zu sein, zu experimentieren - das Limit
     ist immer im eigenen Kopf.
     <br><br>
     **Warum Momo und Kassiopeia?**<br>
     Unseres Eindruckes nach ist Familienleben aktuell oft geprägt von einem Gefühl
     des Zeitmangels. Dem zu begegnen und aus dem Mangel wieder in ein Füllegefühl
-    zu kommen, ist wahrscheinlich mit das Wertvollste, das Familien sich gönnen können.
-    Der Weg dahin ist - unserer Erfahrung nach - nicht einfach, da unter dem
+    zu kommen, ist wahrscheinlich das Wertvollste, was Familien sich gönnen können.
+    Der Weg dahin ist unserer Erfahrung nach nicht einfach, da unter dem
     Alltagsgetriebe in der Regel ein komplexes System aus Annahmen, Glaubenssätzen,
     Abhängigkeiten, Ängsten und anderen Gefühlen steckt. Es lohnt sich dieses
     System genauer unter die Lupe zu nehmen und es Schritt für Schritt zu entzerren.
     Mit jedem kleinen Knoten, der gelöst ist, entsteht genau das, was Momo so
-    intuitiv der Welt schenkt, Zeit für Verbindung und Kreativität."
-    body2: "Mit freundlicher Genehmigung von [M. Sommer](http://mwsommer.de).<br><br>Hier auf dem Festival bieten wir und unser Team die Möglichkeit den Komfort des 4
+    intuitiv der Welt schenkt: Zeit für Verbindung und Kreativität"
+    body2: "Mit freundlicher Genehmigung von [M. Sommer](http://mwsommer.de).<br><br>
+    Hier auf dem Festival bieten wir und unser Team die Möglichkeit, den Komfort des 4
     Sterne Hotels Ebbinghof entspannt zu genießen, dabei tief ins eigene Sein zu tauchen
     und neue Freiheiten zu entdecken und gleichzeitig mit den Kindern das Leben zu feiern.
 Außenrum und nebenbei entstehen neue Verbindungen und Kontakte, gibt es Inspirationen
 in alle Richtungen und natürlich auch Raum, um sich als Familie zu erholen und zurückzuziehen.
 <br><br>**Warum ein Verhaltenskodex?**<br>
 Ein weiterer wichtiger Bestandteil für die entspannte Atmosphäre des Festivals ist der
-gemeinsame Verhaltenskodex zu dem man sich mit dem Kauf des Tickets verpflichtet. Der Sinn
+gemeinsame Verhaltenskodex, zu dem alle mit dem Kauf des Tickets zustimmen. Der Sinn
 des gemeinsamen Kodex ist es, einen sicheren Raum für alle, die sich mutig auf den Weg der
 Veränderung begeben, zu bieten. Veränderungsprozesse können manchmal hohe emotionale Wellen
-schlagen. Der Ritt auf solch einer Welle kann leicht zu scheinbar schlechten Verhalten führen.
+schlagen. Der Ritt auf solch einer Welle kann leicht zu scheinbar schlechtem Verhalten führen.
 In diesem Momenten ist es wichtig, sich von außen nicht ver- und beurteilt zu fühlen, sondern
 die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begegnet."
     section: about
@@ -133,7 +134,7 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
 
   hotel:
     section: hotel
-    title: Hotel - Familienhotel Ebbinghof
+    title: Familienhotel Ebbinghof
     text: "In entspannter Atmosphäre wachsen neue Zellen und der Mensch kann sich
     weiterentwickeln. - Daniela Tigges, Vollblut-Unternehmerin"
   blog:
@@ -143,7 +144,7 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
     title: "Das Team"
     text: "Lass dich inspirieren von Coaches aus dem Bereich Mind, Body und Familie."
     subtext: "Unterstützt wird das Festival und das Team von ausgewählten Partner.
-    Auf den Schnuppertagen kannst du unsere Partner persönlich treffen."
+    Während den zwei Festival Tagen kannst du unsere Partner persönlich treffen."
     section: team
     people:
       - name: "Miriam Schmidberger"
