@@ -13,6 +13,11 @@
             <li><b>{{ service.title }}:</b> <span class="text-muted">{{ service.desc }}</span></li>
        	  {% endfor %}
         </ul>
+        <p align="center">
+        {%- if site.data.sitetext[site.locale].header.button -%}
+            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
+        {%- endif -%}
+        </p>
       </div>
     </div>
   </div>

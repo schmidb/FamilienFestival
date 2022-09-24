@@ -57,21 +57,22 @@ de: &DEFAULT_DE
     title: "Auf einen Blick"
     list:
       - title: "9 Tage All-inclusive Familienurlaub"
-        desc: "Im 4-Sterne Hotel Ebbinghof findest du alles, was du benötigst für
+        desc: "Im 4-Sterne Hotel Ebbinghof findest du alles, was du benötigst, für
         einen entspannten Familienurlaub."
       - title: "Inspiration"
         desc: "An zwei Tagen (Sonntag und Samstag) und bei abendlichen Kaminrunden
         bekommst du viele Inspirationen, um dein Leben und das Leben deiner Familie
         zu verändern."
       - title: "Veränderung"
-        desc: "Montag bis Freitag hast du einen Vormittags- und einen Nachmittagsworkshop, um
+        desc: "Montag bis Freitag hast du täglich einen Vormittags- und einen Nachmittagsworkshop, um
         Veränderung im Bereich 'Body' und 'Mind' zu erlernen. Danach wendest du die neuen
         Inspirationen sofort an und integrierst diese in dein (Familien-) Leben."
       - title: "Kinderbetreuung"
         desc: "Für die Kinder gibt es eine, an das Program der Eltern angepasste, Kinderbetreuung."
       - title: "Spaß & Erholung"
         desc: "In deinem Urlaub soll der Spaß und die Erholung nicht zu kurz kommen.
-        Ein attraktives Programm mit viel Abwechslung bietet dir viel Vielfalt."
+        Ein attraktives Programm mit viel Abwechslung bietet dir viel Vielfalt, Abwechslung,
+        Veränderung, Zeit für dich und Erholung."
 
 
 #  timeline:
