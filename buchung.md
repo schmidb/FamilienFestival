@@ -18,8 +18,8 @@ permalink: buchung
 	 		<i class="fas fa-1 fa-stack-1x fa-inverse"></i>
  		</span>
     <h5 class="card-title">Hotel anfragen & buchen</h5>
-    <p class="card-text">9 Tage All-inclusive kosten für 2 Erwachsene und 2 Kinder
-		zwischen 2000 und 3000 Euro.</p>
+    <p class="card-text">8 Nächte All-inclusive kosten für 2 Erwachsene und 2 Kinder
+		zwischen 2000 und 3000 Euro, abhängig von der Zimmergröße.</p>
     <a href="#" class="card-link">link coming soon</a>
   </div>
 	</div>
