@@ -65,15 +65,19 @@ de: &DEFAULT_DE
         bekommst du viele Inspirationen, um dein Leben und das Leben deiner Familie
         zu verändern."
       - title: "Veränderung"
-        desc: "Montag bis Freitag hast du täglich einen Vormittags- und einen Nachmittagsworkshop, um
-        Veränderung im Bereich 'Body' und 'Mind' zu erlernen. Danach wendest du die neuen
-        Inspirationen sofort an und integrierst diese in dein (Familien-) Leben."
+        desc: "Montag bis Freitag hast du täglich zwei Workshops (je 1 bis 1,5 Stunden),
+        um ausgewählte Themen im Bereich 'Body' und 'Mind' zu vertiefen. Danach
+        wendest du die neuen Inspirationen sofort an und integrierst diese in dein
+        (Familien-) Leben."
       - title: "Kinderbetreuung"
         desc: "Für die Kinder gibt es eine, an das Program der Eltern angepasste, Kinderbetreuung."
       - title: "Spaß & Erholung"
         desc: "In deinem Urlaub soll der Spaß und die Erholung nicht zu kurz kommen.
         Ein attraktives Programm mit viel Abwechslung bietet dir viel Vielfalt, Abwechslung,
         Veränderung, Zeit für dich und Erholung."
+      - title: "Preise"
+        desc: "1750 Euro pro Erwachsenenticket, 0 Euro pro Kinderticket, zwischen 3000
+        und 4000 Euro für Hotel und Verpflegung je nach Zimmer und Familiengröße."
 
 
 #  timeline:

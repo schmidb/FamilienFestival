@@ -18,8 +18,8 @@ permalink: buchung
 	 		<i class="fas fa-1 fa-stack-1x fa-inverse"></i>
  		</span>
     <h5 class="card-title">Hotel anfragen & buchen</h5>
-    <p class="card-text">8 Nächte All-inclusive kosten für 2 Erwachsene und 2 Kinder
-		zwischen 2000 und 3000 Euro, abhängig von der Zimmergröße.</p>
+    <p class="card-text">8 Nächte All-inclusive kosten zwischen 3000 und
+		4000 Euro je nach Zimmer und Familiengröße .</p>
     <a href="#" class="card-link">link coming soon</a>
   </div>
 	</div>
@@ -33,7 +33,7 @@ permalink: buchung
 			<i class="fas fa-2 fa-stack-1x fa-inverse"></i>
 		</span>
 		<h5 class="card-title">Festival Ticket buchen</h5>
-		<p class="card-text">1750 € pro Erwachsener</p>
+		<p class="card-text">1750 € pro Erwachsenenticket</p>
 		<p>Kinder bis 18 Jahre sind kostenlos.</p>
 		<a href="#" class="card-link">link coming soon</a>
 	</div>
