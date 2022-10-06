@@ -7,6 +7,7 @@ author: Miriam & Markus
 date: 2022-09-24
 category: blog
 tag: [Familie, Inspiration]
+show: true
 ---
 
 Die Vision und das Konzept des Familien Festivals beruht auf der Idee alle einengenden und Freiheit nehmenden Vorstellungen, die an das Leben als Familie geknüpft sind, zu lösen.

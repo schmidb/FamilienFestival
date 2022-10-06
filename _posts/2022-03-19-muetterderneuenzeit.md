@@ -6,6 +6,7 @@ author: Miriam
 date: 2022-03-19
 category: blog
 tag: [Familie, Inspiration]
+show: true
 ---
 
 Schule ist aus unseren Köpfen nicht wegzudenken. Denn ein Leben ohne Schule scheint den meisten Menschen eine Provokation. Doch mehr und mehr Kinder reagieren auf den zunehmenden Druck an Bildung, auf die sie vereinnahmende Digitalisierung sowie auf die Betreuung in Gebäuden an sich. Sie senden Seelennotrufe, die mit Diagnosen beantwortet werden. Meistens jedoch scheitert die Hoffnung, die Kinder mittels medizinischer oder therapeutischer Behandlung ans System anzupassen.

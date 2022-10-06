@@ -13,6 +13,7 @@ permalink: blog
       <div class="container">
 
         {% for post in site.categories.blog %}
+          {% if post.show==true %}
                     <div class="row">
                        {% if post.img %}
                         <div class="col-lg-8 col-sm-8">
@@ -38,6 +39,7 @@ permalink: blog
                         {% endif %}
                     </div>
                     <br>
+            {% endif %}
           {% endfor %}
 
 

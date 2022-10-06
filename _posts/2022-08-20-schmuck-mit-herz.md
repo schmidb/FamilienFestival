@@ -6,6 +6,7 @@ author: Dorothea Brill
 date: 2022-08-20
 category: blog
 tag: [Familie, Inspiration]
+show: true
 ---
 
 Schöne Dinge zu gestalten, etwas mit den Händen zu machen und dabei spielerisch zu experimentieren, war von früh an in meinem Leben. Diese Fähigkeiten ließen mich eine Schmuckmacherin mit Herz und Seele werden. Es faszinierte mich, Preziosen zu entwickeln, denen ein Funke innewohnte.
