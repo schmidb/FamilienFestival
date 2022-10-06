@@ -13,6 +13,14 @@ document.getElementById("page-top").className="bg-light";
 
   <h2 class="section-heading text-uppercase">{{ page.title | markdownify }}</h2>
 
+  {% if page.img %}
+  <center>
+      <img class="img-thumbnail" alt="{{ page.title }}" src="{{ page.img }}" onerror="this.src='{{page.img | replace: "webp", "jpg" }}'">
+  </center>
+  {% endif %}
+
+  <p>
   {{ content }}
+  </p>
 
 </div>
