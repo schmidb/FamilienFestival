@@ -1,15 +1,17 @@
 ---
-title: Arbeit, Familie, Haushalt, Leben - zentriert bleiben & den eigenen Weg gehen mit Unbeatlable Mind und Radical Transformation
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Arbeit, Familie, Haushalt, Leben - zentriert bleiben und den eigenen Weg gehen mit Unbeatable Mind und Radical Transformation
+subtitle:
 image: assets/img/portfolio/seifenblase.jpg
-alt:
 
 caption:
-  title: Arbeit, Familie, Haushalt, Leben - zentriert bleiben & den eigenen Weg gehen mit Unbeatlable Mind und Radical Transformation
+  title: Arbeit, Familie, Haushalt, Leben - zentriert bleiben & den eigenen Weg gehen
   subtitle:
   thumbnail: assets/img/portfolio/seifenblase.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Der eigene Weg liegt für mich in einem Zustand von Balance. Eine Balance zwischen dem, was notwendig ist und dem, was Lebensfreude nährt. Um diese Balance zu finden, brauche ich Klarheit. Klarheit darüber, warum ich Dinge tue, weshalb ich meine Prioritäten so setze, warum ich wie meine Zeit und Ressourcen einteile.
+
+In den 5 gemeinsamen Kurseinheiten schauen wir uns an, wie wir generell zu Klarheit finden und gehen dann konkret in jeden einzelnen Bereich.
 
 {:.list-inline}
 - Coach: Miriam
