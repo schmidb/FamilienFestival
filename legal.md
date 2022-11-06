@@ -23,6 +23,7 @@ Familienhotel Ebbinghof, Inh. Daniela Tigges e. K., Ebbinghof 5, 57392 Schmallen
 
 ### Copyright Photos
 * https://pixabay.com
+* <a target="_blank" href="https://icons8.com/icon/12208/handshake">Handshake</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 * Familienhotel Ebbinghof
 * Miriam & Markus Schmidberger
 
