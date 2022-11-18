@@ -1,18 +1,21 @@
 ---
-title: Selbstbehauptungs-und Resilienztrainings für Kinder & Teens
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/resilienz.jpg
+title: "Grüne Familienküche: vegan, veggie, wild!"
+subtitle: schnippeln, mixen, rühren und kreieren
+image: assets/img/portfolio/ingredients.jpg
 alt:
 
 caption:
-  title: Selbstbehauptungs-und Resilienztrainings für Kinder & Teens
+  title: "Grüne Familienküche: vegan, veggie, wild!"
   subtitle:
-  thumbnail: assets/img/portfolio/resilienz.jpg
+  thumbnail: assets/img/portfolio/ingredients.jpg
 ---
-Selbstbehauptungs-und Resilienztrainings für Kinder (4-6 Jahre/ 6-8 Jahre / 8-10 Jahre), Teens Workshop (11-14 Jahre)
+
+Zusammen entdecken wir die jahreszeitlich wechselnde Vielfalt von vollwertigen, vornehmlich pflanzlichen Lebensmitteln, die uns ihre Power unmittelbar spüren lassen. Bunte, wohlschmeckende Ernährung für die ganze Familie ist leichter als es scheint – es braucht nur die Neugier von Jung und Alt.
+
+In diesem Workshop tauchen wir ein in die Basics der grünen Familienküche: wir schnippeln, mixen und rühren alltagstaugliche Rezepte, sammeln gemeinsam Wildkräuter und probieren uns durch alle Mahlzeiten des Tages. Hier ist für jeden Feinschmecker was dabei!
 
 {:.list-inline}
-- Coach: Theresa
-- Kategorie: Mindset
+- Coach: Julia
+- Kategorie: Familie
 
 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
