@@ -1,6 +1,6 @@
 ---
 title: Als Paar an einem Strang ziehen - Familie auf starkem Fundament
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Finde Klarheit und festige euer Fundament
 image: assets/img/portfolio/paar.jpg
 alt:
 
@@ -9,7 +9,10 @@ caption:
   subtitle:
   thumbnail: assets/img/portfolio/paar.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Wir haben festgestellt, dass in Teams, Familien oder bei Paaren gerne der Eindruck vorherrscht, *man ziehe am selben Strang*. Diese Annahme kommt einfach aus dem Gefühl heraus, zur selben Gruppe zu gehören. Ob man tatsächlich an einem Strang zieht, merkt man oft erst, wenn Dinge schiefgehen, die Kinder komisch reagieren oder man unterschiedliche Aussagen macht.
+
+In diesem Kurs erarbeitet erst jeder seine eigene Klarheit, um dann daraus unsere gemeinsame Klarheit zu gestalten. Außerdem lernen wir Techniken, mit denen wir unser gemeinsames Fundament mit den sich wandelnden Anforderungen in Familien (und Teams) immer wieder neu anpassen können.
 
 {:.list-inline}
 - Coach: Miriam & Markus
