@@ -12,13 +12,13 @@ title: Impressum
 
 
 ### Kontakt
-* E-Mail Organisatoren: {{site.email}}
-* E-Mail Veranstalter: info@familienhotel-ebbinghof.de
+* E-Mail Organisatoren & Veranstalter: {{site.email}}
+* E-Mail Hotel: info@familienhotel-ebbinghof.de
 
 ### Inhaltlich verantwortlich & Organisation
 Miriam &amp; Markus Schmidberger, Curragh Road, Glenbeigh, Co. Kerry, Irland
 
-### Veranstalter des Familien Festivals
+### Hotel des Familien Festivals
 Familienhotel Ebbinghof, Inh. Daniela Tigges e. K., Ebbinghof 5, 57392 Schmallenberg
 
 ### Copyright Photos
@@ -48,5 +48,8 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet.
 
 Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+
+### Nutzungsbedingungen Sendinblue
+Wir verwenden Sendinblue als unsere Marketing-Plattform. Wenn du das Formular ausfüllst und absendest, bestätigst du, dass die von dir angegebenen Informationen an Sendinblue zur Bearbeitung gemäß den [Nutzungsbedingungen](https://de.sendinblue.com/legal/termsofuse/) übertragen werden.
 
 <br>

@@ -19,7 +19,7 @@ de: &DEFAULT_DE
   services:
     title: " "
     text: "Ein Turtle Transfomation - Event mit freundlicher Unterstützung des Familienhotels Ebbinghof.
-    Ein Festival für Familien und Alleinerziehende mit Kindern zwischen 1 und 18 Jahren."
+    Ein Festival für Familien und Alleinerziehende mit Kindern zwischen 0 und 18 Jahren."
     section: services
     list:
       - title: "All-inclusive Familienurlaub"
@@ -241,6 +241,8 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
         icon: "fab fa-facebook-f"
       - url: https://www.linkedin.com/company/turtletrafo
         icon: "fab fa-linkedin-in"
+      - url: https://www.instagram.com/turtletrafo
+        icon: "fab fa-instagram"
       - url: mailto:trafo@posteo.net
         icon: "fab fa-at"
       - url: /faq
