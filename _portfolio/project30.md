@@ -18,4 +18,4 @@ In den 5 gemeinsamen Kurseinheiten schauen wir uns an, wie wir generell zu Klarh
 
 {:.list-inline}
 - Coach: Miriam
-- Kategorie: mind
+- Kategorie: <span class="badge badge-primary">mind</span>

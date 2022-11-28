@@ -17,4 +17,4 @@ caption:
 
 {:.list-inline}
 - Coach: Shakti
-- Kategorie: body
+- Kategorie: <span class="badge badge-success">body</span>

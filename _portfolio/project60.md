@@ -20,4 +20,4 @@ Die kindliche Entwicklung aus entwicklungspsychologischer Sicht, ihre Hintergrü
 
 {:.list-inline}
 - Coach: Julia
-- Kategorie: mind
+- Kategorie: <span class="badge badge-primary">mind</span>

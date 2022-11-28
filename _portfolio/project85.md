@@ -23,4 +23,4 @@ Achtsames Bewegen am Abend dient dazu, uns unserem Körper bewusst und liebevoll
 
 {:.list-inline}
 - Coach: Dorothea
-- Kategorie: body
+- Kategorie: <span class="badge badge-success">body</span>

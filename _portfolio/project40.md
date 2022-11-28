@@ -19,4 +19,4 @@ In diesem Workshop tauchen wir ein in die Basics der grünen Familienküche: wir
 
 {:.list-inline}
 - Coach: Julia
-- Kategorie: mind
+- Kategorie: <span class="badge badge-primary">mind</span>

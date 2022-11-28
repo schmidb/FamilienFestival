@@ -27,4 +27,4 @@ dürfen.
 
 {:.list-inline}
 - Coach: Arusha
-- Kategorie: mind
+- Kategorie: <span class="badge badge-primary">mind</span>

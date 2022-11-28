@@ -19,4 +19,4 @@ Während des Workshops macht ihr euch mit verschiedenen Basics vertraut und star
 
 {:.list-inline}
 - Coach: Sebi
-- Kategorie: body
+- Kategorie: <span class="badge badge-success">body</span>

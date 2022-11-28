@@ -19,4 +19,4 @@ In diesem Kurs erarbeitet zuerst jeder seine eigene Klarheit, um dann daraus die
 
 {:.list-inline}
 - Coach: Miriam & Markus
-- Kategorie: mind
+- Kategorie: <span class="badge badge-primary">mind</span>

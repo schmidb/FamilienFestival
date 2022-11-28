@@ -17,4 +17,4 @@ Abgerundet wird das Seminar durch das Erlernen einer einfachen Alltagsübung, um
 
 {:.list-inline}
 - Coach: Markus
-- Kategorie: mind
+- Kategorie: <span class="badge badge-primary">mind</span>

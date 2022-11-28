@@ -45,4 +45,4 @@ Geübt wird der Umgang mit Beleidigungen, Wegnehmen, Festhalten, aber auch mit d
 
 {:.list-inline}
 - Coach: Theresa
-- Kategorie: family & kids
+- Kategorie: <span class="badge badge-warning">family & kids</span>

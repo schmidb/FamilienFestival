@@ -28,4 +28,4 @@ harmonisiert.
 
 {:.list-inline}
 - Coach: Arusha
-- Kategorie: body
+- Kategorie: <span class="badge badge-success">body</span>
