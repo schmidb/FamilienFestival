@@ -16,6 +16,7 @@ de: &DEFAULT_DE
     button: Jetzt buchen
     buttonlink: "/buchung"
 
+
   services:
     title: " "
     text: "Ein Turtle Transfomation - Event mit freundlicher Unterstützung des Familienhotels Ebbinghof.
@@ -49,9 +50,23 @@ de: &DEFAULT_DE
 
   portfolio:
     title: "Programm"
+    title2: "Kursberscheibungen"
     text: "Ein Programm um tief ins eigene Sein zu tauchen und neue Möglichkeiten zu entdecken."
     section: portfolio
     closebutton: "Seite schliessen"
+    intro: "Das Programm ist unterteilt in drei Bereiche. Der Intensivkursbereich für Eltern bestehend aus
+    Body und Mind Kursen (direkt zu buchen mit Ticketbuchung), der Kinder- und Familienbereich
+    (buchbar vor Ort, Präferenzen bei der Ticketbuchung gerne angeben) und ein vielfältiges &
+    inspierenrendes Abendprogramm bestehend aus Meditationen, Worshops, Vorträgen und
+    Lagerfeuer-Runden (vollständiges Program erst vor Ort). <br>Alle Veranstaltunges des
+    Familienfestival Programs sind im Ticket inklusive.
+
+    <br><br>
+    Hier findet ihr den <a href=''>Stundenplan</a> für die Intensivkurse der Eltern.<br>
+    <a href=''><img src='assets/img/portfolio/stundenplan.jpg' width=100px></a><br>
+    Für die Ticketbuchung
+    jeweils einen Mind- und einen Bodykurs raussuchen. Diese beiden Kurse sind eure
+    Intensivkurse täglich von Montag bis Freitag auf dem Familien Festival."
 
   aufEinenBlick:
     title: "Auf einen Blick"
