@@ -1,6 +1,6 @@
 ---
 title: Auf Reisen in die Innenwelt
-subtitle: schnippeln, mixen, rühren und kreieren
+subtitle: über Tiefenentspannung in unbekannte Welten eintauchen
 image: assets/img/portfolio/relax.jpg
 alt:
 kategorie:

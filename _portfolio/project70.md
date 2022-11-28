@@ -1,6 +1,6 @@
 ---
-title: Energetisches Yoga
-subtitle:
+title: Energetisches Yoga - morgens Flow und abends Deeper Spririt
+subtitle: den Körper mit dem inneren Empfinden verbinden
 image: assets/img/portfolio/yoga.jpg
 alt:
 kategorie:
@@ -8,7 +8,7 @@ kategorie:
   text: body
 
 caption:
-  title: Energetisches Yoga
+  title: Energetisches Yoga - morgens Flow und abends Deeper Spririt
   subtitle:
   thumbnail: assets/img/portfolio/yoga.jpg
 ---
@@ -16,7 +16,7 @@ caption:
 Die Yoga Praxis ist ein Weg, der den Körper mit dem inneren Empfinden verbindet. Die Übungen des
 Yoga bestehen aus Körperhaltungen, die im fliessenden Übergang miteinander verbunden werden.
 Dabei ist der Atem die Grundlage und begleitet jede kleine Bewegung. Durch Yoga wird der Körper
-beweglich und auch kraftvoller. Der Ablauf einer Einheit im Yoga ist so konzipiert, daß über Stille,Atem, Erwärmung des Körpers und einer kraftvollen Sequenz der Bogen in einer Ruhelage endet. Hier kann das Körpersystem komplett tief entspannen.
+beweglich und auch kraftvoller. Der Ablauf einer Einheit im Yoga ist so konzipiert, daß über Stille, Atem, Erwärmung des Körpers und einer kraftvollen Sequenz der Bogen in einer Ruhelage endet. Hier kann das Körpersystem komplett tief entspannen.
 
 Dabei begleitet die ausgewählte Musik / Klänge die gesamte Sequenz und fördert die energetische
 Wahrnehmung der einzelnen Teilnehmer/innen. Die Wahrnehmung für den Körper und Geist wird so

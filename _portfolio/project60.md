@@ -4,8 +4,8 @@ subtitle: Hintergründe und Strategien der kindlichen Reaktionen verstehen
 image: assets/img/portfolio/boy.jpg
 alt:
 kategorie:
-  type: badge-warning
-  text: family & kids
+  type: badge-primary
+  text: mind
 
 caption:
   title: "Kinder besser verstehen: Einblicke in die Hintergründe der kindliche Entwicklung"
@@ -20,6 +20,4 @@ Die kindliche Entwicklung aus entwicklungspsychologischer Sicht, ihre Hintergrü
 
 {:.list-inline}
 - Coach: Julia
-- Kategorie: Familie
-
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
+- Kategorie: mind

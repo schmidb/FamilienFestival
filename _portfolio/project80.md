@@ -12,10 +12,11 @@ caption:
   subtitle:
   thumbnail: assets/img/portfolio/killa-sebi.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Seid ihr euch der Möglichkeiten eures physischen Körpers bewusst? Wisst ihr, was ihr durch Konzentration und Disziplin erreichen könnt? Vielfältig in Tanz, Schauspiel und Choreografie ausgebildet, inspirieren ich euch durch Breakdance Training, eure Fähigkeiten besser kennenzulernen und damit euer Selbstbewusstsein zu stärken.
+
+Während des Workshops macht ihr euch mit verschiedenen Basics vertraut und startet mit den wichtigsten Grundlagen. Es werden Körperspannung, Kraft und Mobilität des Körpers behandelt. Eine besondere Rolle spielen auch die Themen Angst überwinden und Vertrauen in die eigenen Fähigkeiten. All das gepaart mit einer Prise Lust auf neue Herausforderungen ergibt ganz viel Spaß und am Ende der Woche eine kleine Choreografie.
 
 {:.list-inline}
 - Coach: Sebi
-- Kategorie: Body
-
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
+- Kategorie: body

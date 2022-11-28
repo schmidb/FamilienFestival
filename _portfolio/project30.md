@@ -18,6 +18,4 @@ In den 5 gemeinsamen Kurseinheiten schauen wir uns an, wie wir generell zu Klarh
 
 {:.list-inline}
 - Coach: Miriam
-- Kategorie: Mindset
-
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
+- Kategorie: mind
