@@ -1,6 +1,6 @@
 ---
 title: Achtsames Bewegen
-subtitle:
+subtitle: wir spüren bewusst in unseren Körper und geben dem Raum, was sich gerade zeigt
 image: assets/img/portfolio/bewegen.jpg
 alt:
 kategorie:
