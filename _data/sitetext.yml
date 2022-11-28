@@ -227,9 +227,20 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
             icon: fa fa-desktop
           - url: https://www.raum-fuer-zeit.net/
             icon: fa fa-desktop
-      - name: ""
-        role: "Yoga und Lebenscoach"
-        image: assets/img/team/500x500.jpg
+      - name: "Percy Shakti Johannsen"
+        role: "Yogalehrer, Sup Yoga Lehrer und Autor"
+        image: assets/img/team/shakti.webp
+        social:
+          - url: https://www.facebook.com/Shaktiji
+            icon: fa fa-facebook-f
+          - url: http://namaste-yoga.de/
+            icon: fa fa-desktop
+      - name: "Arusha Susanne Winckler"
+        role: "Soulfireartist, Yogalehrerin, Alpha Chi Beraterin"
+        image: assets/img/team/arusha.jpeg
+        social:
+          - url: www.soulfireart.de
+            icon: fa fa-desktop
       - name: "Daniela Tigges"
         role: "Vollblut-Unternehmerin und Hotelmanagerin des Ebbinghofes"
         image: assets/img/team/daniela.jpeg
