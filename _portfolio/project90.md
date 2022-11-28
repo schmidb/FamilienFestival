@@ -16,26 +16,24 @@ caption:
 Als ausgebildete Selbstbehauptungs- und Resilienztrainerin, möchte ich Kinder auf ihrem Weg zu starken, selbstbewussten & zufriedenen Menschen begleiten.
 
 In der ersten Kurseinheit lernen die Kinder:
-
-    •    Konflikte selbstsicher zu lösen 
-    •    klar zu kommunizieren 
-    •    in schwierigen Situationen ruhig und entspannt zu bleiben 
-    •    auf ihre Gefühle zu hören 
-    •    am Ball zu bleiben, wenn etwas nicht auf Anhieb klappt 
-    •    den Blick auf das Positive zu richten 
-    •    im Notfall richtig Hilfe zu holen 
+* Konflikte selbstsicher zu lösen 
+* klar zu kommunizieren 
+* in schwierigen Situationen ruhig und entspannt zu bleiben 
+* auf ihre Gefühle zu hören 
+* am Ball zu bleiben, wenn etwas nicht auf Anhieb klappt 
+* den Blick auf das Positive zu richten 
+* im Notfall richtig Hilfe zu holen 
 
 ...und das mit jeder Menge Spaß!
 
 In einer zweiten Kurseinheit, werden Antworten auf die folgenden Fragen gesucht:
-
-    •    Welche Gefühle kennen wir? 
-    •    Gibt es gute und schlechte Gefühle? 
-    •    Wie erkenne ich, was mir und anderen gut tut? 
-    •    Wieso fühlen wir alle unterschiedlich? 
-    •    Wie entstehen Gerüchte? 
-    •    Was ist eigentlich Selbstbewusstsein? 
-    •    Was macht mich stark? 
+* Welche Gefühle kennen wir? 
+* Gibt es gute und schlechte Gefühle? 
+* Wie erkenne ich, was mir und anderen gut tut? 
+* Wieso fühlen wir alle unterschiedlich? 
+* Wie entstehen Gerüchte? 
+* Was ist eigentlich Selbstbewusstsein? 
+* Was macht mich stark? 
 
 Im Gegensatz zu Selbstverteidigungskursen, bei denen die Abwehr körperlicher Gewalt im Mittelpunkt steht, geht es in meinen Kursen darum, Kinder im Zusammenhang mit Verletzungen der Psyche zu stärken und ihre Resilienz zu erhöhen.
 In einfachen Übungen und ohne viele Worte, lernen sie mentale Angriffe abzuwehren, abzumildern und im Idealfall ganz zu verhindern. Gleichzeitig erkennen sie ihre eigene Rolle in Konfliktsituationen und dass sie nicht in der Opferrolle gefangen sein müssen, sondern sich selber aktiv daraus befreien können.
