@@ -3,6 +3,9 @@ title: Breakdance Classes
 subtitle: Mit der richtigen Unterstützung kommst du ans Ziel.
 image: assets/img/portfolio/killa-sebi.jpg
 alt:
+kategorie:
+  type: badge-success
+  text: body
 
 caption:
   title: Breakdance Classes

@@ -3,6 +3,9 @@ title: "Grüne Familienküche: vegan, veggie, wild!"
 subtitle: schnippeln, mixen, rühren und kreieren
 image: assets/img/portfolio/ingredients.jpg
 alt:
+kategorie:
+  type: badge-primary
+  text: mind
 
 caption:
   title: "Grüne Familienküche: vegan, veggie, wild!"

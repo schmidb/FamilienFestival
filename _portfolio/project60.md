@@ -3,6 +3,9 @@ title: "Kinder besser verstehen: Einblicke in die Hintergründe der kindliche En
 subtitle: Hintergründe und Strategien der kindlichen Reaktionen verstehen
 image: assets/img/portfolio/boy.jpg
 alt:
+kategorie:
+  type: badge-warning
+  text: family & kids
 
 caption:
   title: "Kinder besser verstehen: Einblicke in die Hintergründe der kindliche Entwicklung"

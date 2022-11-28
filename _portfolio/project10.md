@@ -3,6 +3,9 @@ title: Familie ohne Gefühle geht nicht - auf in die Wunderwelt der Gefühle
 subtitle: Entdecke deine Gefühle neu
 image: assets/img/portfolio/smiley-emotions.jpg
 alt:
+kategorie:
+  type: badge-primary
+  text: mind
 
 caption:
   title: Familie ohne Gefühle geht nicht - auf in die Wunderwelt der Gefühle

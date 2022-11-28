@@ -3,6 +3,9 @@ title: Als Paar an einem Strang ziehen - Familie auf starkem Fundament
 subtitle: Finde Klarheit und festige euer Fundament
 image: assets/img/portfolio/paar.jpg
 alt:
+kategorie:
+  type: badge-primary
+  text: mind
 
 caption:
   title: Als Paar an einem Strang ziehen - Familie auf starkem Fundament

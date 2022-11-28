@@ -3,6 +3,9 @@ title: 3 Helden Training - Selbstbehauptungs- und Resilienztraining für Kinder
 subtitle: (nach dem Konzept von Stark auch ohne Muckis)
 image: assets/img/portfolio/resilienz.jpg
 alt:
+kategorie:
+  type: badge-warning
+  text: family & kids
 
 caption:
   title: 3 Helden Training - Selbstbehauptungs- und Resilienztraining für Kinder

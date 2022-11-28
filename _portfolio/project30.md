@@ -2,6 +2,9 @@
 title: Arbeit, Familie, Haushalt, Leben - zentriert bleiben und den eigenen Weg gehen mit Unbeatable Mind und Radical Transformation
 subtitle: Um diese Balance zu finden, brauche ich Klarheit
 image: assets/img/portfolio/seifenblase.jpg
+kategorie:
+  type: badge-primary
+  text: mind
 
 caption:
   title: Arbeit, Familie, Haushalt, Leben - zentriert bleiben & den eigenen Weg gehen
