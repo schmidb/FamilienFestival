@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buchung
-permalink: buchung
+permalink: buchung_beta
 ---
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Buchung</h2>

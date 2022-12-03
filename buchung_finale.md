@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buchung
-permalink: buchung2
+permalink: buchung
 ---
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Buchung</h2>
@@ -25,8 +25,7 @@ permalink: buchung2
 	<!--<div class="embed-responsive embed-responsive-16by9">
 	 <iframe class="embed-responsive-item" src="https://docs.google.com/forms/d/e/1FAIpQLSe0dkly84mQgw0IkTou4x6WfVRy920fxfuVE1yiUy9JKOwpxQ/viewform?embedded=true" allowfullscreen frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 	 	</div> -->
-	<a href="https://forms.gle/hzqpGSLDEV8fb69W6" target="_blank">zur Buchungsanfrage</a>
-
+		<a target="_blank" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://forms.gle/hzqpGSLDEV8fb69W6">zur Buchungsanfrage</a>
 	</div>
 	</div>
 
