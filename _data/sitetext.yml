@@ -51,9 +51,9 @@ de: &DEFAULT_DE
   portfolio:
     title: "Programm"
     title2: "Kurse"
-    text: "Ein Auswahl an Kursen, um tief ins eigene Sein zu tauchen und
-    neue Möglichkeiten zu entdecken. Für Informationen über die Kurse bitte auf das
-    Bild klicken."
+    subtitle: "Ein Programm, um tief ins eigene Sein zu tauchen und
+    neue Möglichkeiten zu entdecken."
+    subtitle2: "Für Informationen über die Kurse bitte auf das Bild klicken."
     section: portfolio
     closebutton: "Seite schliessen"
     intro: "Das Programm ist unterteilt in drei Bereiche. Der Intensivkursbereich für Eltern bestehend aus
@@ -164,6 +164,16 @@ schlagen. Der Ritt auf solch einer Welle kann leicht zu scheinbar schlechtem Ver
 In diesem Momenten ist es wichtig, sich von außen nicht ver- und beurteilt zu fühlen, sondern
 die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begegnet."
     section: about
+
+  kennenlernen:
+    title: Dein persönliches Kennenlerngepräch
+    text: Freude und Vertrauen wächst im persönlichen Gespräch
+    body1: "Dich begeistert die Idee, Vision und Konzept des Familien Festivals 2023? Dann
+    bist du hier richtig. Wir freuen uns, in einem kurzen persönlichen Gespräch, dich kennenzulernen,
+    das Konzept des Festivals persönlich mit dir zu teilen und deine Fragen zu beantworten. Hier
+    kannst du direkt ein Kennenlerngespräch mit Miriam oder Markus vereinbaren."
+    body2: "Gerne kannst du uns auch eine Email mit deinen Fragen zusenden: <a href='mailto:trafo@posteo.net'>trafo@posteo.net</a>"
+    section: kennenlernen
 
   clients:
     title: Partner

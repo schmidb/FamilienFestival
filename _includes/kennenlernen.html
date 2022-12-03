@@ -1,0 +1,26 @@
+<!-- About -->
+<section class="page-section" id="{{ site.data.sitetext[site.locale].kennenlernen.section | default: "kennenlernen" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].kennenlernen.title | default: "About Us" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].kennenlernen.text | default: "" }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto text-center">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].kennenlernen.body1 | markdownify }}</div>
+
+        <!-- MeetFox static button start -->
+        <link href="https://app.meetfox.com/assets/styles/popup.css" rel="stylesheet" />
+        <script src="https://app.meetfox.com/assets/libs/popup.min.js" type="text/javascript"></script>
+        <a href="" onclick="MeetFox.initStaticButton({ url: 'https://meetfox.com/de/e/turtletrafo/borderless' });return false;" style="cursor: pointer; font-family: Poppins; font-weight: 700; background-color: #fcb00a; color: white; padding: 0.8rem 2rem; border: 0px; box-shadow: rgba(0, 0, 0, 0.15) 0px -2px 0px inset; border-radius: 4px; text-decoration: none; display: inline-block;">jetzt persönliches Gespräch vereinbaren</a>
+        <!-- MeetFox static button end -->
+        <br><br>
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].kennenlernen.body2| markdownify }}</div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End About -->

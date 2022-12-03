@@ -20,6 +20,8 @@ de: &DEFAULT_DE
       section: hotel
     - title: "Team"
       section: team
+    - title: "Kennenlernen"
+      section: kennenlernen
     - title: "Kontakt"
       section: contact
     - title: "Blog"
