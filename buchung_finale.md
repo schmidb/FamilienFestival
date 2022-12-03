@@ -33,7 +33,8 @@ permalink: buchung
 
 	<div class="card">
 	<div class="card-body">
-		<h5 class="card-title">Verhaltenskodex:</h5>
+
+		<h5 class="card-title" id="verhaltenskodex">Verhaltenskodex:</h5>
 
 		<p>Ein wichtiger Bestandteil für die entspannte und sichere Atmosphäre auf dem Familien Festival ist der gemeinsame Verhaltenskodex. Der Sinn des gemeinsamen Kodex ist es, einen sicheren Raum für alle, die sich mutig auf den Weg der Veränderung begeben, zu bieten. Mit dem Kauf des Tickets für das Familien Festival verpflichtet sich jeder Teilnehmer den Verhaltenskodex einzuhalten.</p>
 
@@ -62,7 +63,7 @@ permalink: buchung
 
 	<div class="card">
 	<div class="card-body">
-   <h5 class="card-title">AGBs & Stornierung:</h5>
+   <h5 class="card-title" id="storno">AGBs & Stornierung:</h5>
 	 <p>Wie weisen darauf hin, dass für das Familien Festival 2023 im Familienhotel Ebbinghof die
 	 <a href="https://www.familienhotel-ebbinghof.de/agb">AGBs des Familienhotels</a> Anwendung finden.</p>
 
