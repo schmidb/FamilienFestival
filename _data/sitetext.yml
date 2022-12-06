@@ -253,7 +253,7 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
         role: "Soulfireartist, Yogalehrerin, Alpha Chi Beraterin"
         image: assets/img/team/arusha.jpeg
         social:
-          - url: www.soulfireart.de
+          - url: https://www.soulfireart.de
             icon: fa fa-desktop
       - name: "Daniela Tigges"
         role: "Vollblut-Unternehmerin und Hotelmanagerin des Ebbinghofes"
