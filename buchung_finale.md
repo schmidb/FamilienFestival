@@ -10,7 +10,7 @@ permalink: buchung
   <div class="card-body">
     <h5 class="card-title">Hotel</h5>
     <p class="card-text">8 Nächte All-inclusive kosten zwischen 3000 und
-		4000 Euro je nach Zimmer und Familiengröße</p>
+		5000 Euro je nach Zimmer und Familiengröße</p>
 		<h5 class="card-title">Festival Tickets</h5>
 		<p class="card-text">Frühbucher: 1750€ + MwSt. pro Erwachsenenticket<br>
 		ab 1.4.2023: 2500€ + MwSt. pro Erwachsenenticket<br>
