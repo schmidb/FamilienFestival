@@ -39,14 +39,18 @@ de: &DEFAULT_DE
         desc: "An 5 Tagen bieten wir dir täglich zwei Seminare, um tief in dein eigenes Sein zu tauchen
         und neue Möglichkeiten zu entdecken."
         icon: fas fa-school
-      - title: "25 Familien"
-        desc: "25 gleichgesinnte Familien triffst du am Ebbinghof und es entstehen
+      - title: "30 Familien"
+        desc: "30 gleichgesinnte Familien triffst du am Ebbinghof und es entstehen
         neue Verbindungen, Kontakte und Freundschaften."
         icon: fas fa-people-group
       - title: "Kinderprogramm und -betreuung"
         desc: "Jede Menge Spaß & Weiterbildung für eure Kids stehen auf dem
         Programm – immer unter liebevoller Begleitung und je nach Angebot mit oder ohne Eltern."
         icon: fas fa-child
+
+  welcomevideo:
+    section: welcomevideo
+    video: <iframe class="embed-responsive-item" src='https://www.youtube.com/embed/GIc9vR5ZIjw' title='Die Entstehung des Familien Festivals' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
 
   portfolio:
     title: "Programm"
@@ -97,38 +101,6 @@ de: &DEFAULT_DE
         desc: "Frühbucherpreis bis 31. März 1750 Euro + MwSt bzw. regulärer Preis
         2500 Euro + MwSt pro Erwachsenenticket, 0 Euro pro Kinderticket, zwischen
         3500 und 4500 Euro für Hotel und Verpflegung je nach Zimmer und Familiengröße."
-
-
-#  timeline:
-#    title: "Timeline"
-#    text: "Lorem ipsum timeline"
-#    section: timeline
-    # left is the default
-    #start_align: "left"
-#    events:
-#      - title: "Our Humble Beginnings"
-#        year: "2009-2011"
-#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-#        image: assets/img/timeline/1.jpg
-#        alt:
-#      - title: "An Agency is Born"
-#        year: "March 2011"
-#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-#        image: assets/img/timeline/2.jpg
-#        alt:
-#      - title: "Jekyll Theme is created"
-#        year: "2019"
-#        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-#        image: assets/img/timeline/3.jpg
-#        alt: image alt text
-#      - title: "Title"
-#        year: "2009-2011"
-#        desc: "Your description here, **Markdown** is fully supported."
-#        image: assets/img/timeline/4.jpg
-#        alt:
-#        # you can enforce the alignment
-#        align: right
-#    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "Philosophie"
