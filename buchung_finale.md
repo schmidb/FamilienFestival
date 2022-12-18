@@ -9,7 +9,7 @@ permalink: buchung
 	<div class="card">
   <div class="card-body">
     <h5 class="card-title">Hotel</h5>
-    <p class="card-text">8 Nächte All-inclusive kosten zwischen 3000 und
+    <p class="card-text">8 Nächte All-inclusive (vegetarisch/veganen Mahlzeiten) kosten zwischen 3000 und
 		5000 Euro je nach Zimmer und Familiengröße</p>
 		<h5 class="card-title">Festival Tickets</h5>
 		<p class="card-text">Frühbucher: 1750€ + MwSt. pro Erwachsenenticket<br>
