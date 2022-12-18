@@ -68,8 +68,8 @@ de: &DEFAULT_DE
     Familien Festival Programms sind im Ticket inklusive.
 
     <br><br>
-    Hier findet ihr den <a href='assets/stundenplan_FamilienFestival2023.pdf'>Stundenplan</a> für die Intensivkurse der Eltern.<br>
-    <a href='assets/stundenplan_FamilienFestival2023.pdf'><img src='assets/img/portfolio/stundenplan_ff.png' width=100px></a><br>
+    Hier findet ihr den <a href='assets/stundenplan_FF23.pdf'>Stundenplan</a> für die Intensivkurse der Eltern und das vorläufige Kinderprogramm.<br>
+    <a href='assets/stundenplan_FF23.pdf'><img src='assets/img/portfolio/stundenplan_ff.png' width=100px></a><br>
     Für die Ticketbuchung
     jeweils einen Mind- und einen Bodykurs raussuchen. Diese beiden Kurse sind von
     Montag bis Freitag eure täglichen Intensivkurse auf dem Familien Festival."
@@ -92,8 +92,9 @@ de: &DEFAULT_DE
         wendest du die neuen Inspirationen sofort an und integrierst diese in dein
         (Familien-) Leben."
       - title: "Kinderbetreuung"
-        desc: "Für die Kinder gibt es eine, an das Program der Eltern angepasste, Kinderbetreuung.
-        Für die Intensivtage gibt es Kinderbetreuung für die 3 bis 6 Jährigen von 9 bis 17 Uhr. "
+        desc: "Für die Intensivtage gibt es Kinderbetreuung für die 3 bis 6 Jährigen von 9 bis 17 Uhr. "
+      - title: "Kinderprogramm"
+        desc: "Für die Kinder gibt es ein vielfältiges und buntes Angebot, teilweise als Familienangebot."
       - title: "Spaß & Erholung"
         desc: "In deinem Urlaub soll der Spaß und die Erholung nicht zu kurz kommen.
         Ein attraktives Programm mit viel Abwechslung bietet dir Vielfalt, Abwechslung,
