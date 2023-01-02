@@ -13,9 +13,9 @@
 de: &DEFAULT_DE
   nav:
     - title: "Programm"
-      section: portfolio
+      section: programm
     - title: "Philosophie"
-      section: about
+      section: philosohie
     - title: "Hotel"
       section: hotel
     - title: "Team"
@@ -23,7 +23,7 @@ de: &DEFAULT_DE
     - title: "Kennenlernen"
       section: kennenlernen
     - title: "Kontakt"
-      section: contact
+      section: kontakt
     - title: "Blog"
       url: "/blog"
 de-DE:

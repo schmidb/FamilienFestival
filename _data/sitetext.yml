@@ -58,7 +58,7 @@ de: &DEFAULT_DE
     subtitle: "Ein Programm, um tief ins eigene Sein zu tauchen und
     neue Möglichkeiten zu entdecken."
     subtitle2: "Für Informationen über die Kurse bitte auf das Bild klicken."
-    section: portfolio
+    section: programm
     closebutton: "Seite schliessen"
     intro: "Das Programm ist unterteilt in drei Bereiche. Der Intensivkursbereich für Eltern bestehend aus
     Body und Mind Kursen (direkt zu buchen mit Ticketbuchung), der Kinder- und Familienbereich
@@ -76,6 +76,7 @@ de: &DEFAULT_DE
 
   aufEinenBlick:
     title: "Auf einen Blick"
+    section: "aufEinenBlick"
     list:
       - title: "8 Nächte All-inclusive Familienurlaub"
         desc: "Im 4-Sterne Hotel Ebbinghof findest du alles, was du benötigst, für
@@ -137,7 +138,7 @@ Veränderung begeben, zu bieten. Veränderungsprozesse können manchmal hohe emo
 schlagen. Der Ritt auf solch einer Welle kann leicht zu scheinbar schlechtem Verhalten führen.
 In diesem Momenten ist es wichtig, sich von außen nicht ver- und beurteilt zu fühlen, sondern
 die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begegnet."
-    section: about
+    section: philosophie
 
   kennenlernen:
     title: Dein persönliches Gespräch
@@ -241,7 +242,7 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
   contact:
     title: "Kontakt"
     text: "Miriam & Markus Schmidberger - trafo@posteo.net "
-    section: contact
+    section: kontakt
     newsletter:
       abmeldung: Newsletter Abmeldung
       introtext: In unregelmässigen Abständen senden wir Dir Informationen und Angebote rund um Familien Festival 2023. Du kannst den Newsletter jederzeit über den Link im Footer abbestellen.
