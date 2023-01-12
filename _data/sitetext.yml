@@ -162,6 +162,9 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
       - title: "Ebbinghof"
         url: https://www.familienhotel-ebbinghof.de/
         logo: assets/img/team/ebbinghof.jpg
+      - title: "Staatenlos"
+        url: https://staatenlos.ch
+        logo: assets/img/sponsoren/staatenlos.png
 
   hotel:
     section: hotel
