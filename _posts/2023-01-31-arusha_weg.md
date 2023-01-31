@@ -3,11 +3,11 @@ layout: blog
 title: "Arusha Susanne Winckler: vom Feuer der Befreiung - Wie ich mich selber immer wieder befreite und zur Sinnsucherin wurde"
 img: /assets/img/team/arusha.jpeg
 author: Miriam & Markus
-date: 2023-01-31
+date: 2023-02-10
 
 category: blog
 tag: [Coaches]
-show: true
+show: false
 ---
 
 
