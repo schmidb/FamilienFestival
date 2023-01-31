@@ -3,11 +3,11 @@ layout: blog
 title: "Arusha Susanne Winckler: vom Feuer der Befreiung - Wie ich mich selber immer wieder befreite und zur Sinnsucherin wurde"
 img: /assets/img/team/arusha.jpeg
 author: Miriam & Markus
-date: 2023-02-10
+date: 2023-01-31
 
 category: blog
 tag: [Coaches]
-show: false
+show: true
 ---
 
 
@@ -48,4 +48,4 @@ Damit wird der Weg zu einer Sadhana [Anmerkung: Sadhana ist Sanskrit und bedeute
 
 ![asdf](/assets/img/blog/arusha_wilderwogel.jpeg)
 
-**Dieser Blogbeitrag wurde geschrieben von Arusha. Wir freuen uns Arusha als Coach auf dem Familien Festival 2023 dabei zu haben und freuen uns über viel bewegende Inspirationen von ihr. Hier findest du eine Übersicht des [Programms](/#programm) und kannst die Angebote von Arusha finden.**
+**Dieser Blogbeitrag wurde geschrieben von Arusha Susanne Winckler [www.soulfireart.de](www.soulfireart.de). Wir freuen uns Arusha als Coach auf dem Familien Festival 2023 dabei zu haben und freuen uns über viel bewegende Inspirationen von ihr. Hier findest du eine Übersicht des [Programms](/#programm) und kannst die Angebote von Arusha finden.**
