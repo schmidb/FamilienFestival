@@ -7,7 +7,7 @@ date: 2023-01-31
 
 category: blog
 tag: [Coaches]
-show: true
+show: false
 ---
 
 Als Hotelunternehmerin und alleinerziehende Mutter kam in 2017 die Idee zu mir, ein paar Monate Auszeit zu nehmen. Ich bereitete mein 70-köpfiges Team vor, schloss Anfang 2019 noch eine große Baustelle ab, bevor es dann in das Sabbatical ging: Meine beiden Töchter und ich im Familienvan mit Zelt durch Südeuropa.
