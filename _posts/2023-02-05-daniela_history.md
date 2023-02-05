@@ -3,11 +3,11 @@ layout: blog
 title: "Daniela Tigges: wie es dazu kam"
 img: /assets/img/blog/daniela.jpg
 author: Miriam & Markus
-date: 2023-01-31
+date: 2023-02-05
 
 category: blog
 tag: [Coaches]
-show: false
+show: true
 ---
 
 Als Hotelunternehmerin und alleinerziehende Mutter kam in 2017 die Idee zu mir, ein paar Monate Auszeit zu nehmen. Ich bereitete mein 70-köpfiges Team vor, schloss Anfang 2019 noch eine große Baustelle ab, bevor es dann in das Sabbatical ging: Meine beiden Töchter und ich im Familienvan mit Zelt durch Südeuropa.
