@@ -1,5 +1,5 @@
 ---
-title: Energetisches Yoga - morgens Flow und abends Deeper Spririt
+title: Energetisches Yoga - morgens Flow und abends Deeper Spirit
 subtitle: den Körper mit dem inneren Empfinden verbinden
 image: assets/img/portfolio/yoga.jpg
 alt:
@@ -8,7 +8,7 @@ kategorie:
   text: body
 
 caption:
-  title: Energetisches Yoga - morgens Flow und abends Deeper Spririt
+  title: Energetisches Yoga - morgens Flow und abends Deeper Spirit
   subtitle:
   thumbnail: assets/img/portfolio/yoga.jpg
 ---
