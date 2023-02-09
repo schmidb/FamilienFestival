@@ -7,7 +7,7 @@ date: 2023-02-09
 
 category: blog
 tag: [Coaches]
-show: false
+show: true
 ---
 
 Wer kennt sie nicht? Situationen, in denen man „Es“ einfach nicht richtig machen kann. In denen man die Wahl hat zwischen: Sich selbst schlecht fühlen und den Gegenüber vor den Kopf zu stoßen.
