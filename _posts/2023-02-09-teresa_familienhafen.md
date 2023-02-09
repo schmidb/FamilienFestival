@@ -2,8 +2,8 @@
 layout: blog
 title: "Teresa Sulilatu: Die Lösung, sie liegt in mir"
 img: /assets/img/team/theresa_2.jpg
-author: Miriam & Markus
-date: 2023-01-31
+author: Teresa Sulilatu
+date: 2023-02-09
 
 category: blog
 tag: [Coaches]

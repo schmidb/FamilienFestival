@@ -2,7 +2,7 @@
 layout: blog
 title: "Daniela Tigges: wie es dazu kam"
 img: /assets/img/blog/daniela.jpg
-author: Miriam & Markus
+author: Daniela Tigges
 date: 2023-02-05
 
 category: blog
