@@ -2,7 +2,7 @@
 layout: blog
 title: "Arusha Susanne Winckler: etwas über mein Yoga - 5 Punkte für eine regelmäßige Yogapraxis"
 img: /assets/img/blog/arusha_yoga.jpeg
-author: Miriam & Markus
+author: Arusha Winckler
 date: 2023-02-14
 
 category: blog

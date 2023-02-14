@@ -46,6 +46,6 @@ Damit wird der Weg zu einer Sadhana [Anmerkung: Sadhana ist Sanskrit und bedeute
 <br>Eine Sadhana der Fülle an Erfahrungen.
 <br>Eine Reise im Prozess des Erkennens.
 
-![asdf](/assets/img/blog/arusha_wilderwogel.jpeg)
+![Arusha Wildervwogel](/assets/img/blog/arusha_wilderwogel.jpeg)
 
 **Dieser Blogbeitrag wurde geschrieben von Arusha Susanne Winckler [www.soulfireart.de](www.soulfireart.de). Wir freuen uns Arusha als Coach auf dem Familien Festival 2023 dabei zu haben und freuen uns über viel bewegende Inspirationen von ihr. Hier findest du eine Übersicht des [Programms](/#programm) und kannst die Angebote von Arusha finden.**

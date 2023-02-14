@@ -1,37 +1,58 @@
 ---
 layout: blog
-title: "Arusha Susanne Winckler: etwas über mein Yoga - 5 Punkte für eine regelmäßige Yogapraxis"
-img: /assets/img/blog/arusha_yoga.jpeg
-author: Miriam & Markus
+title: "Dorothea Brill - Happy Panda - Achtsamkeitstraining für Kinder"
+img: /assets/img/blog/happypanda_herz.jpg
+author: Dorothea Brill
 date: 2023-02-14
 
 category: blog
 tag: [Coaches]
-show: true
+show: false
 ---
 
-Meine erste Yogastunde nahm ich eher zufällig. Ich war unflexibel und jede Bewegung eine Offenbarung. Bei den Mantren kamen mir die Tränen, die Musik berührte mich und mein Körper wurde wach. Es war jedesmal ein Weg und der Weg in den Körper hinein und sanft in der Seele erinnert zu werden, im Moment zu sein, ganz da.
+*Jedes Kind sollte die Chance erhalten, eine bewusste persönliche Erfahrung mit Achtsamkeit und Mitgefühl zu machen*, sagt Dr. Cécile Cayla, die Initiatorin von Happy Panda.
 
-Ich praktizierte regelmässig Yoga, als ich in Hongkong lebte und arbeitete. Das Yoga bei den indischen Lehrern zeigte mir die Vielfalt an Möglichkeiten, die unterschiedlichen Stile. Basierend auf dem Hatha Yoga = Körper Yoga, angereichert mit Meditation.
+<br>
+## Warum mit Kindern?
+Schon immer fühlte ich eine besondere Verbindung zu Kindern, vor allem zu Kindern im Grundschulalter. Ihre Offenheit, ihr direktes, unverstelltes Sein, ihr lichtes Wesen in diesem Alter machen mir große Freude. Sie verstehen schon viel und alle guten Anlagen sind da und brauchen nur bewahrt und unterstützt zu werden.
 
-Mit meinen indischen Lehrern war Yoga voller Humor und Leichtigkeit. Mein Körper brauchte dafür viel Zeit. Von der Schwere zur Ausdehnung, von der Leistung zur Akzeptanz des gegenwärtigen Körpergefühls, vom Ehrgeiz zur Gelassenheit. Erst viele Jahre später begab ich mich in die Ausbildung zum Deeper Spirit Yoga. Denn es ist nicht nur die Körper Übung, sondern der mentale Weg der Intention, die Ruhe, die sich einstellt, die Erkundung der Rhythmen, Klänge, zu denen der Körper und ein gestresster Geist entspannen kann. Das Leben mit Yoga fühlt sich achtsam an, eine Praxis, die dir zeigt, wo du stehst und was gerade über den Körper transportiert wird. Der Körper ist weise und es nährt ihn, wenn er Beachtung findet. Wie oft ist da ein Vergessen…wie oft gehen wir über uns selbst hinweg? Die Yogapraxis führt zum bewußten achtsamen Üben und zaubert anschließend ein Lächeln auf das Gesicht.
+Mit Happy Panda ist ein systematisches Achtsamkeitstraining entwickelt worden, das genau da ansetzt.
 
-# Warum sollte ich Yoga praktizieren?
+Nachdem ich selbst den Schatz der Achtsamkeit entdecken durfte - leider erst als Erwachsene - ist es zu einer Herzensaufgabe von mir geworden, Kindern das zu vermitteln, was mir am wertvollsten erscheint: Das Leben glücklich und zufrieden zu erfahren.
 
-Und das ist es, was Yoga für mich ausmacht. Ich gehe mit fünf Punkten:
+Was könnte wichtiger sein, als unsere Kinder mit den besten Werkzeugen auszustatten, die sie in ihrem Leben brauchen, um so unterwegs zu sein.
 
-1. Yoga ist ein wunderbares **Morgenritual**. Um den Morgen zu starten, spürst du deinen Körper, kommst mit dir selber in Kontakt und gewinnst Klarheit für den Tag.
+<br>
+## Das kann der Panda.
+Happy Panda ist Spezialist in Achtsamkeit und freut sich immer sehr, wenn er mit mir eine neue Klasse kennenlernt und den Kindern viel erzählen darf. Sein bester Freund Sephir, der kleine Affe, begleitet ihn meistens. Lektion für Lektion erkunden wir gemeinsam das Land der Achtsamkeit. In kleinen Geschichten, spielerischen Übungen und Experimenten lernen wir es näher kennen. Die Panda-Haltung, die Panda-Ohren und die Panda-Atmung werden zum Ritual jeder Stunde. Wir machen es uns zu einer Gewohnheit, für eine kurze Zeit eine Haltung in Stille einzunehmen, Geräusche achtsam zu hören und die Atmung bewußt wahrzunehmen. Wir erlernen auch die Wahrnehmung von Empfindungen, Eindrücken und Gefühlen, sowie Empathie (Panda-Herzensgrüße). Weitere Aspekte des Trainings sind Dankbarkeit, Großzügigkeit und Bewegung. Als letztes erleben wir, wie wir eine Rosine mit allen Sinnen ganz langsam und neu entdecken (Panda-Geschmack).
 
-2. Es fördert deine **Gesundheit**. Du wirst beweglicher, du baust Kraft auf und dein gesamtes Körpersystem kommt in Balance.
+Es berührt mich immer, die Kinder authentisch und sehr offen für alles zu erleben. Sie lieben die beiden Stofftiere und freuen sich auf jedes Wiedersehen.
 
-3. **Energie**. Über eine sanfte Praxis kommt die Energie zu dir. So genanntes Prana oder auch Chi. Der Chi Fluss wird angeregt, und so entsteht in dir ein Fluss und damit auch mehr Wohlbefinden.
+![Happy Panda](/assets/img/blog/happypanda_epi.jpg)
 
-4. **Wachheit und Bewusstheit**. Die Yogapraxis ist aufweckend und aktivierend. Sie schenkt Willenskraft und sorgt für Klarheit. Die Wahrnehmung für deinen Körper wird sensibilisiert und darüber hinaus auch die innere Sonne aktiviert.
+Panda Herzensgrüße:
+* Mögest du fröhlich und zufrieden sein.
+* Mögest du gesund und sicher sein.
+* Mögest du glücklich sein.
 
-5. **Entspannung**. Ein Bestandteil der Yogapraxis ist, den aktiven Bewegungen nach zu spüren, inne zu halten und zur Ruhe zu kommen. Wie Tag und Nacht, aktiv und passiv verbinden sich. Über die Schlusshaltung im Liegen - das Shavasana, entsteht ein Raum, in dem der Körper tief entspannen kann.
+Panda-Gefühle:
+* Wie geht es dir gerade?
+* Welches Wetter fühlst du heute in dir?
 
-Und jeder Tag ist anders mit einer anderen Yogapraxis. Egal wie du dich fühlst und startest, wirken die fünf Punkte.
+<br>
+## Meine Haltung als Trainerin zählt
+Entscheidend für die Arbeit mit Kindern ist, dass ich als Trainerin selbst eine offene, nicht wertende Haltung gegenüber den Kindern und Gegebenheiten habe. Das bedeutet authentisch, aufrecht, liebevoll, klar und geduldig zu sein. In dieser Atmosphäre kann sich ein Kind positiv entwickeln und all sein Potential entfalten.
 
+Wozu führt systematisch erlernte Achtsamkeit?
+* mehr Selbsterkenntnis, Einfühlungsvermögen und sozialer Kompetenz
+* mehr Impulskontrolle und gesteigerter Handlungsfähigkeit bei starken Gefühlsausbrüchen
+* weniger Stress, Ängsten und Überforderungsgefühlen
+* ruhigerer und fokussierterer Atmosphäre im Unterricht
+* mehr Konzentration und Aufmerksamkeit sowie höherem Auffassungsvermögen
 
+<br>
+## Wer steht hinter Happy Panda?
+„Jedes Kind sollte die Chance erhalten, eine bewusste persönliche Erfahrung mit Achtsamkeit und Mitgefühl zu machen“, sagt Dr. Cécile Cayla, die Initiatorin von Happy Panda. Nach 15 Jahren Forschung hatte sich die Molekularbiologin entschieden, ihre wissenschaftlichen Fähigkeiten und ihre persönliche Achtsamkeitspraxis für die pädagogische Arbeit mit Kindern zu nutzen. Sie ließ sich im amerikanischen „Mindful Schools Curriculum” zur Achtsamkeitstrainerin für Kinder ausbilden und startete im Jahr 2011 das Projekt Happy Panda, an dem bis heute mehr als 5000 Kinder teilgenommen haben.
 
-**Dieser Blogbeitrag wurde geschrieben von Arusha Susanne Winckler [www.soulfireart.de](www.soulfireart.de). Wir freuen uns Arusha als Coach auf dem Familien Festival 2023 dabei zu haben und freuen uns über viel bewegendes Yoga von ihr. Hier findest du eine Übersicht des [Programms](/#programm) und kannst die Angebote von Arusha finden.**
+<br>
+**Dieser Blogbeitrag wurde geschrieben von Dorothea Brill [https://www.happypanda.training](https://www.happypanda.training). Wir freuen uns Dorothea als Coach auf dem Familien Festival 2023 dabei zu haben und freuen uns über viel Achtsamkeit mit dem Happy Panda von ihr. Hier findest du eine Übersicht des [Programms](/#programm) und kannst die Angebote von Dorothea finden.**
