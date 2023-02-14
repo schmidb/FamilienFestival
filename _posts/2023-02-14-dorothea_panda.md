@@ -3,7 +3,7 @@ layout: blog
 title: "Dorothea Brill - Happy Panda - Achtsamkeitstraining für Kinder"
 img: /assets/img/blog/happypanda_herz.jpg
 author: Dorothea Brill
-date: 2023-02-15
+date: 2023-02-14
 
 category: blog
 tag: [Coaches]
