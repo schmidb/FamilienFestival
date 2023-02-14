@@ -3,11 +3,11 @@ layout: blog
 title: "Arusha Susanne Winckler: etwas über mein Yoga - 5 Punkte für eine regelmäßige Yogapraxis"
 img: /assets/img/blog/arusha_yoga.jpeg
 author: Miriam & Markus
-date: 2023-01-31
+date: 2023-02-14
 
 category: blog
 tag: [Coaches]
-show: false
+show: true
 ---
 
 Meine erste Yogastunde nahm ich eher zufällig. Ich war unflexibel und jede Bewegung eine Offenbarung. Bei den Mantren kamen mir die Tränen, die Musik berührte mich und mein Körper wurde wach. Es war jedesmal ein Weg und der Weg in den Körper hinein und sanft in der Seele erinnert zu werden, im Moment zu sein, ganz da.
