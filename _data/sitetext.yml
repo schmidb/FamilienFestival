@@ -28,7 +28,7 @@ de: &DEFAULT_DE
         desc: "Umgeben von sattem Grün, vielen Wiesen und Wäldern ist der Ebbinghof der
         ideale Ort, um ins eigene Sein zu tauchen und neue Freiheiten zu entdecken."
         icon: fas fa-bed #find more at https://fontawesome.com/icons
-      - title: "8 Coaches"
+      - title: "9 Coaches"
         desc: "Ausgewählte Experten geben Anstöße, um in dir neue Freiheiten zu entdecken
         und das Leben mit deiner Familie neu zu gestalten und zu feiern."
         icon: fas fa-person-chalkboard
@@ -233,6 +233,14 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
         social:
           - url: https://www.soulfireart.de
             icon: fa fa-desktop
+      - name: "Sina Johannsen"
+        role: "Yogalehrerin"
+        image: assets/img/team/sina.jpeg
+        social:
+          - url: https://kunterbuntyoga.de/
+            icon: fa fa-desktop
+          - url: https://www.instagram.com/sina.johannsen/
+            icon: fab fa-instagram
       - name: "Daniela Tigges"
         role: "Vollblut-Unternehmerin und Hotelmanagerin des Ebbinghofes"
         image: assets/img/team/daniela.jpeg

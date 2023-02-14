@@ -1,28 +1,33 @@
 ---
-title: Happy Panda – Achtsamkeitstraining für Kinder
-subtitle: was uns hilft glücklicher und zufriedener zu werden
-image: assets/img/portfolio/panda.png
+title: KunterBuntYoga - wir machen uns die Welt, wie sie uns gefällt
+subtitle:  frei zu fühlen und mit seinem inneren Kind in Kontakt zu sein
+image: assets/img/portfolio/kunterbuntyoga.png
 alt:
 
 caption:
-  title: Happy Panda
+  title: KunterBuntYoga
   subtitle:
-  thumbnail: assets/img/portfolio/panda.png
+  thumbnail: assets/img/portfolio/kunterbuntyoga.png
 kategorie:
   type: badge-warning
   text: family & kids
 ---
 
-Täglich, 14:00 bis 15:30 Uhr, Teilnehmer maximal 12 Kinder
+Seid ihr bereit? Mit viel Spiel und Spaß wollen wir zusammen auf Reisen gehen und uns entdecken.
+Ob auf einem fliegenden Teppich nach Ägypten oder durch eine Zaubertuch ins Märchenland, in unserer Fantasie gibt es keine Grenzen.
 
-Für Kinder im Alter von 4 bis 10 Jahren, ihre Eltern sind eingeladen mitzumachen.
+Mein Name ist Sina und ich liebe es Neues zu erleben. Mit meinen Geschwistern springe ich in ein Abenteuer nach dem Nächsten. In meinen Kursen darf mit viel Bewegung, Leichtigkeit, Freude und Herzlichkeit alles sein und das Miteinander steht im Fokus. Jedes Kind ist einzigartig. Somit auch jede Yogastunde. Die Kinder dürfen sich einbringen und sich ganz individuell ausdrücken. Es kann mal laut, mal leise, mal rhythmisch, bunt oder ruhig werden. Je nach dem wie die Kinder sich fühlen und was sich durch sie zeigt.
 
-Kein kontinuierliches Teilnehmen notwendig
+Auch in den Stunden mit Eltern, großen Geschwistern oder anderen Bezugspersonen, geht es immer kunterbunt drunter und drüber. Zusammen stärken und vertiefen wir die Bindung zu den Kindern und tauchen frei und verspielt in ihre fabelhafte Welt ein. Unsere inneren Kinder freuen sich darauf, Hand in Hand mit uns sich vor Lachen zu kringeln und Konfetti regnen zu lassen.
 
-Ein kleiner Pandabär, ein Äffchen und ich erzählen, was uns hilft glücklicher und zufriedener zu werden. Gemeinsam erkunden wir über ansprechende Übungen, wie wir uns und den gegenwärtigen Moment bewusst wahrnehmen können und das auf diese Weise Erlebte nicht zu bewerten. Das lehrt uns die Achtsamkeit. In den Tagen lernen wir Auszüge des Happy Panda Trainings kennen, das mittlerweile schon mehr als 5000 Kinder an Grundschulen erfahren durften.
+Im Kunterbunt Yoga geht es darum sich egal in welchem Alter, frei zu fühlen und mit seinem inneren Kind in Kontakt zu sein. Vertrauen in sich zu haben, sich zu lieben und zu feiern mit allem was dazu gehört.
 
-Mehr siehe unter [https://happypanda.training/achtsamkeitstraining-fuer-kinder/](https://happypanda.training/achtsamkeitstraining-fuer-kinder/)
+Also kommt alle vorbei und wir hüpfen, fliegen, schwimmen, reiten oder zaubern uns an einen euch vielleicht noch unbekannten Ort.
+
+Mit und durch uns werden Wunder wahr.
+
+Wir machen uns die Welt, wie sie uns gefällt ... .
 
 {:.list-inline}
-- Coach: Dorothea
+- Coach: Sina
 - Kategorie: <span class="badge badge-warning">family & kids</span>
