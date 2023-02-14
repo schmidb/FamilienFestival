@@ -16,7 +16,11 @@ title: Impressum
 * E-Mail Hotel: info@familienhotel-ebbinghof.de
 
 ### Inhaltlich verantwortlich & Organisation
-Miriam &amp; Markus Schmidberger, Curragh Road, Glenbeigh, Co. Kerry, Irland
+Turtle Transformation Limited<br>
+Miriam &amp; Markus Schmidberger<br>
+Drom Upper<br>
+Glenbeigh, Co. Kerry<br>
+V93F6X0, Ireland
 
 ### Hotel des Familien Festivals
 Familienhotel Ebbinghof, Inh. Daniela Tigges e. K., Ebbinghof 5, 57392 Schmallenberg

@@ -146,7 +146,7 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
     bist du hier richtig. Wir freuen uns, in einem kurzen persönlichen Gespräch, dich kennenzulernen,
     das Konzept des Festivals persönlich mit dir zu teilen und deine Fragen zu beantworten. Hier
     kannst du direkt ein Kennenlerngespräch mit Miriam oder Markus vereinbaren."
-    body2: "Gerne kannst du uns auch eine Email mit deinen Fragen zusenden: <a href='mailto:trafo@posteo.net'>trafo@posteo.net</a>"
+    body2: "Gerne kannst du uns auch eine Email mit deinen Fragen zusenden: <a href='mailto:info@turtletrafo.de'>info@turtletrafo.de</a>"
     section: kennenlernen
 
   clients:
@@ -243,7 +243,7 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
 
   contact:
     title: "Kontakt"
-    text: "Miriam & Markus Schmidberger - trafo@posteo.net "
+    text: "Miriam & Markus Schmidberger - info@turtletrafo.de"
     section: kontakt
     newsletter:
       abmeldung: Newsletter Abmeldung
@@ -260,7 +260,7 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
         icon: "fab fa-linkedin-in"
       - url: https://www.instagram.com/turtletrafo
         icon: "fab fa-instagram"
-      - url: mailto:trafo@posteo.net
+      - url: mailto:info@turtletrafo.de
         icon: "fab fa-at"
       - url: /faq
         icon: "fab fa-question"

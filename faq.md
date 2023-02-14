@@ -38,16 +38,26 @@ permalink: faq
       </div>
     </div>
 
-		<div class="panel-heading" role="tab" id="maenner_head">
+		<div class="panel-heading" role="tab" id="fragen_head">
 			<h4 class="panel-title">
-				<a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#maenner_role" aria-expanded="false" aria-controls="maenner">
-					Du hast weitere Fragen? Dann schreibe uns bitte eine Email.
+				<a rclass="collapsed" ole="button" data-toggle="collapse" data-parent="#accordion" href="#fragen_role" aria-expanded="false" aria-controls="fragen">
+					Du hast weitere Fragen?
 				</a>
 			</h4>
 		</div>
-		<div id="maenner_role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="maenner_head">
+		<div id="fragen_role" class="panel-collapse collapse" role="tabpanel" aria-labelledby="fragen_head">
 			<div class="panel-body">
-				<a href="mailto:trafo@posteo.net">trafo@posteo.net</a>
+				Dann schreibe uns bitte eine Email: <a href="mailto:{{site.email}}">{{site.email}}</a><br>
+
+				Oder vereinbare ein Kennenlerngespräch mit uns:
+				<br>
+				<!-- MeetFox static button start -->
+				<link href="https://app.meetfox.com/assets/styles/popup.css" rel="stylesheet" />
+				<script src="https://app.meetfox.com/assets/libs/popup.min.js" type="text/javascript"></script>
+				<a href="" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" onclick="MeetFox.initStaticButton({ url: 'https://meetfox.com/de/e/turtletrafo/borderless' });return false;">jetzt persönliches Gespräch vereinbaren</a>
+				<!-- MeetFox static button end -->
+
+
 			</div>
 		</div>
 
