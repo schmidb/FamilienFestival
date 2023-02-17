@@ -14,6 +14,7 @@ permalink: buchung
 		<h5 class="card-title">Festival Tickets</h5>
 		<p class="card-text">Frühbucher: 1750€ + MwSt. pro Erwachsenenticket<br>
 		ab 1.4.2023: 2500€ + MwSt. pro Erwachsenenticket<br>
+		ab 1.6.2023: 3500€ + MwSt. pro Erwachsenenticket<br>
 		alle Kinder bis 18 Jahre sind kostenlos</p>
   </div>
 	</div>
@@ -70,6 +71,10 @@ permalink: buchung
 	 <p>
 	 Buchungen für Zimmer können von Teilnehmern nach den Stornierungsregelungen des Ebbinghof storniert werden.<br>
 	 Familien Festival Tickets können entsprechend der Vorschrift im BGB (<a href="https://www.gesetze-im-internet.de/bgb/__312g.html">§312g Widerrufsrecht Absatz 2</a>) nicht storniert werden. Bei einer Stornierung durch den Teilnehmer vor 31.3.2023 wird freundlicherweise eine Erstattung von 50 % gewährt.
+	 </p>
+
+	 <p>
+	 Es wird darauf hingewiesen, dass die Seminare auf dem Familien Festival keinen Ersatz für eine Therapie, Paartherapie, Familientherapie oder medizinische Behandlung darstellen. Über sämtliche private und persönliche Aussagen oder Vorkommen in den Seminaren wird absolutes Stillschweigen bewahrt. Es werden keine persönlichen Details, die im Verlauf des Seminars bekannt werden, nach außen getragen.
 	 </p>
 	</div>
 	</div>
