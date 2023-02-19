@@ -1,7 +1,7 @@
 ---
 title: Achtsames Bewegen
 subtitle: wir spüren bewusst in unseren Körper und geben dem Raum, was sich gerade zeigt
-image: assets/img/portfolio/bewegen.jpg
+image: assets/img/portfolio/dorothea_sonnenuntergang.jpeg
 alt:
 kategorie:
   type: badge-success
@@ -10,7 +10,7 @@ kategorie:
 caption:
   title: Achtsames Bewegen
   subtitle:
-  thumbnail: assets/img/portfolio/bewegen.jpg
+  thumbnail: assets/img/portfolio/dorothea_sonnenuntergang.jpeg
 ---
 
 Achtsam sein bedeutet, ganz im gegenwärtigen Moment anzukommen, und das mit einer zugewandten, warmen Haltung. In der Bewegung können wir unsere Aufmerksamkeit oft leichter in der Gegenwart verankern. In achtsamen Bewegungen spüren wir bewusst in unseren Körper und geben dem Raum, was sich gerade zeigt. Dabei lege ich bei meiner Anleitung die Betonung auf das Fühlen in Verbindung mit unserem Atem. Innere Ruhe, Entspannung und mehr Weite stellen sich ein.

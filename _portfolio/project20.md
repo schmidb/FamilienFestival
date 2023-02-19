@@ -1,7 +1,7 @@
 ---
 title: Als Paar an einem Strang ziehen - Familie auf starkem Fundament
 subtitle: Finde Klarheit und festige euer Fundament
-image: assets/img/portfolio/paar.jpg
+image: assets/img/portfolio/mundm.jpg
 alt:
 kategorie:
   type: badge-primary
@@ -10,7 +10,7 @@ kategorie:
 caption:
   title: Als Paar an einem Strang ziehen - Familie auf starkem Fundament
   subtitle:
-  thumbnail: assets/img/portfolio/paar.jpg
+  thumbnail: assets/img/portfolio/mundm.jpg
 ---
 
 Wir haben festgestellt, dass in Teams, Familien oder bei Paaren gerne der Eindruck vorherrscht, *man ziehe am selben Strang*. Diese Annahme kommt meist aus dem Gefühl heraus, zur selben Gruppe zu gehören. Ob man tatsächlich an einem Strang zieht, merkt man oft erst, wenn Dinge schiefgehen, die Kinder komisch reagieren oder man unterschiedliche Aussagen macht.acht.

@@ -1,7 +1,7 @@
 ---
 title: Auf Reisen in die Innenwelt
 subtitle: über Tiefenentspannung in unbekannte Welten eintauchen
-image: assets/img/portfolio/relax.jpg
+image: assets/img/portfolio/arusha_wilderwogel.jpeg
 alt:
 kategorie:
   type: badge-primary
@@ -10,7 +10,7 @@ kategorie:
 caption:
   title: Auf Reisen in die Innenwelt
   subtitle:
-  thumbnail: assets/img/portfolio/relax.jpg
+  thumbnail: assets/img/portfolio/arusha_wilderwogel.jpeg
 ---
 
 

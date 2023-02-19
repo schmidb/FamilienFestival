@@ -1,7 +1,7 @@
 ---
 title: Energetisches Yoga - morgens Flow und abends Deeper Spirit
 subtitle: den Körper mit dem inneren Empfinden verbinden
-image: assets/img/portfolio/yoga.jpg
+image: assets/img/portfolio/arusha_yoga.jpeg
 alt:
 kategorie:
   type: badge-success
@@ -10,7 +10,7 @@ kategorie:
 caption:
   title: Energetisches Yoga - morgens Flow und abends Deeper Spirit
   subtitle:
-  thumbnail: assets/img/portfolio/yoga.jpg
+  thumbnail: assets/img/portfolio/arusha_yoga.jpeg
 ---
 
 Die Yoga Praxis ist ein Weg, der den Körper mit dem inneren Empfinden verbindet. Die Übungen des

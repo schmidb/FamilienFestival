@@ -1,7 +1,7 @@
 ---
 title: Kinderprogramm
 subtitle: kunterbunt und vielfältig
-image: assets/img/portfolio/tent.jpg
+image: assets/img/portfolio/kinder.jpg
 alt:
 kategorie:
   type: badge-warning
@@ -10,7 +10,7 @@ kategorie:
 caption:
   title: Kinderprogramm
   subtitle:
-  thumbnail: assets/img/portfolio/tent.jpg
+  thumbnail: assets/img/portfolio/kinder.jpg
 ---
 
 Für die Kinder gibt es ein vielfältiges und buntes Angebot, teilweise als Familienangebot.

@@ -1,7 +1,7 @@
 ---
 title: Breakdance Classes
 subtitle: Mit der richtigen Unterstützung kommst du ans Ziel.
-image: assets/img/portfolio/killa-sebi.jpg
+image: assets/img/portfolio/sebi.jpg
 alt:
 kategorie:
   type: badge-success
@@ -10,7 +10,7 @@ kategorie:
 caption:
   title: Breakdance Classes
   subtitle:
-  thumbnail: assets/img/portfolio/killa-sebi.jpg
+  thumbnail: assets/img/portfolio/sebi.jpg
 ---
 
 Seid ihr euch der Möglichkeiten eures physischen Körpers bewusst? Wisst ihr, was ihr durch Konzentration und Disziplin erreichen könnt? Vielfältig in Tanz, Schauspiel und Choreografie ausgebildet, inspirieren ich euch durch Breakdance Training, eure Fähigkeiten besser kennenzulernen und damit euer Selbstbewusstsein zu stärken.
