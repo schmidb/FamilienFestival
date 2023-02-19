@@ -3,11 +3,11 @@ layout: blog
 title: "Dorothea Brill - Happy Panda - Achtsamkeitstraining für Kinder"
 img: /assets/img/blog/happypanda_herz.jpg
 author: Dorothea Brill
-date: 2023-02-14
+date: 2023-02-19
 
 category: blog
 tag: [Coaches]
-show: false
+show: true
 ---
 
 *Jedes Kind sollte die Chance erhalten, eine bewusste persönliche Erfahrung mit Achtsamkeit und Mitgefühl zu machen*, sagt Dr. Cécile Cayla, die Initiatorin von Happy Panda.
