@@ -165,6 +165,16 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
         url: https://staatenlos.ch
         logo: assets/img/sponsoren/staatenlos.png
 
+  clients2:
+      title: Partner
+      section: partner2
+      max-height: 100px
+      horizontal-scrolling: "no" #"yes/no"
+      list:
+        - title: "Yoga Aktuell"
+          url: https://www.yoga-aktuell.de/
+          logo: assets/img/sponsoren/yogaaktuell_logoisch72dpi.webp
+
   hotel:
     section: hotel
     title: Familienhotel Ebbinghof
@@ -233,11 +243,9 @@ die Sicherheit zu haben, dass die Gemeinschaft einem offen und mitfühlend begeg
           - url: https://www.soulfireart.de
             icon: fa fa-desktop
       - name: "Sina Johannsen"
-        role: "Yogalehrerin"
+        role: "Yogalehrerin, Autorin, Lernbegleiterin"
         image: assets/img/team/sina.jpeg
         social:
-          - url: https://kunterbuntyoga.de/
-            icon: fa fa-desktop
           - url: https://www.instagram.com/sina.johannsen/
             icon: fab fa-instagram
       - name: "Daniela Tigges"
