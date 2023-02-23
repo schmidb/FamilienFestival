@@ -73,6 +73,19 @@ de: &DEFAULT_DE
     jeweils einen Mind- und einen Bodykurs raussuchen. Diese beiden Kurse sind von
     Montag bis Freitag eure täglichen Intensivkurse auf dem Familien Festival."
 
+  livecalls:
+    section: livewebinar
+    title: "Live Webinare mit Miriam & Markus"
+    text: "erfahre mehr über die Methoden und Workshops auf dem Familien Festival"
+    body1: "An folgenden Terminen geben die Miriam & Markus - die Gründer des
+    Familien Festivals 2023 - live Webinare zu verschiedenen Themen, berschreiben wieso
+    diese Themen ein Teil des Festivals sind und beantworten all deine Fragen."
+    body2: "<br>06.3.2023 um 19:30 Uhr 'Body und Mind in Balance stärkt dein Familienfundament'
+      <br>20.3.2023 um 19:30 Uhr 'Resilienz auf allen Ebenen stärkt die Familie'
+      <br>06.4.2023 um 19:30 Uhr 'Spaß als Familie alle zusammen'
+      <br>15.4.2023 um 19:30 Uhr 'Familienküche nervt oder macht Spaß als Team'"
+    button: Jetzt registrieren zum Live Webinar
+
   aufEinenBlick:
     title: "Auf einen Blick"
     section: "aufEinenBlick"

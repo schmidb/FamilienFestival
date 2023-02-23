@@ -1,0 +1,71 @@
+<!-- About -->
+<section class="page-section" id="{{ site.data.sitetext[site.locale].livecalls.section | default: "livecalls" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].livecalls.title | default: "Live Calls" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].livecalls.text | default: "" }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto text-center">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].livecalls.body1 | markdownify }}</div>
+        <br>
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].livecalls.body2 | markdownify }}</div>
+        <p align="center">
+        {%- if site.data.sitetext[site.locale].livecalls.button -%}
+            <a class="btn btn-primary btn-xl text-uppercase portfolio-link" data-toggle="modal" href="#pLiveCalls">{{ site.data.sitetext[site.locale].livecalls.button }}</a>
+        {%- endif -%}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End About -->
+
+
+
+<div
+  class="portfolio-modal modal fade"
+  id="pLiveCalls"
+  tabindex="-1"
+  role="dialog"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl"></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <div class="modal-body">
+              <!-- Project Details Go Here -->
+              <h2 class="text-uppercase">{{ site.data.sitetext[site.locale].livecalls.title}}</h2>
+              <p class="item-intro text-muted">{{ site.data.sitetext[site.locale].livecalls.text}}</p>
+
+{{ site.data.sitetext[site.locale].livecalls.body1 | markdownify }}
+
+<br>06.3.2023 um 19:30 Uhr 'Body und Mind in Balance stärkt dein Familienfundament' - <a href="mailto:{{site.email}}?subject=Anmeldung Live Webinar - Body und Mind">jetzt registrieren</a></li>
+<br>20.3.2023 um 19:30 Uhr 'Resilienz auf allen Ebenen stärkt die Familie' - <a href=mailto:{{site.email}}?subject=Anmeldung Live Webinar - Resilienz>jetzt registrieren</a></li>
+<br>06.4.2023 um 19:30 Uhr 'Spaß als Familie alle zusammen' - <a href="mailto:{{site.email}}?subject=Anmeldung Live Webinar - Spaß">jetzt registrieren</a></li>
+<br>15.4.2023 um 19:30 Uhr 'Familienküche nervt oder macht Spaß als Team'" - <a href="mailto:{{site.email}}?subject=Anmeldung Live Webinar - Familienküche">jetzt registrieren</a></li>
+
+              <button
+                class="btn btn-primary"
+                data-dismiss="modal"
+                type="button"
+              >
+                <i class="fas fa-times"></i>
+                Seite schliessen
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
