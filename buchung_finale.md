@@ -6,6 +6,7 @@ permalink: buchung
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Buchung</h2>
 
+	<!--
 	<div class="card">
   <div class="card-body">
     <h5 class="card-title">Hotel</h5>
@@ -23,12 +24,21 @@ permalink: buchung
 
 	<div class="card">
 	<div class="card-body">
-	<!--<div class="embed-responsive embed-responsive-16by9">
-	 <iframe class="embed-responsive-item" src="https://docs.google.com/forms/d/e/1FAIpQLSe0dkly84mQgw0IkTou4x6WfVRy920fxfuVE1yiUy9JKOwpxQ/viewform?embedded=true" allowfullscreen frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
-	 	</div> -->
 		<a target="_blank" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://forms.gle/hzqpGSLDEV8fb69W6">zur Buchungsanfrage</a>
 	</div>
 	</div>
+
+	-->
+
+	<div class="card">
+	<div class="card-body">
+		Sichere dir deinen Platz für das Familien Festival 2024 indem du dich in unseren Newsletter einträgst.<br>
+		Das Familien Festival 2024 wird im August 2024 in einem Hotel in Bayern / Alpenvorland stattfinden.
+		<br>
+		{% include sendinblue.html %}
+	</div>
+	</div>
+
 
   <br><br>
 
